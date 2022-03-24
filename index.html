@@ -8,63 +8,38 @@
     <script src="https://cdn.jsdelivr.net/npm/fomantic-ui@2.8.7/dist/semantic.min.js"></script>
 
     <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
 
 </head>
 
 <body>
-    <div class="main-content">
+    <div class="ui text container main-content">
         <h1>EECS 441: Mobile App Development for Entrepreneurs</h1>
         <p>Best practices in the software engineering of mobile applications and best practices of software
-            entrepreneurs in the design, production and marketing of mobile apps. Students will engage in the hands-on
-            practice of entrepreneurship by actually inventing, building and marketing their own mobile apps.</p>
+            entrepreneurs in the design, production and marketing of mobile apps.
+        </p>
         <div class="ui centered three stackable cards pad-bottom">
-            <div class="card">
-                <div class="content center-text">
-                    <div class="header">Syllabus</div>
-                    <div class="description">Course policies and procedures</div>
+            <a class="ui raised card" target="_blank" id="syllabus-schedule">
+                <div class="content">
+                    <div class="header">Syllabus/Schedule</div>
+                    <div class="description">Course policies, dates, and deadlines</div>
                 </div>
-                <div class="extra-content">
-                    <div class="ui two buttons pad-div border-top">
-                        <a class="ui basic button" target="_blank"
-                            href="https://drive.google.com/file/d/1AXGH6ZK_R_dVyhhOm7iG08xB-jN6YfJm/view?usp=sharing">
-                            View</a>
-                        <a class="ui basic button" target="_blank"
-                            href="https://drive.google.com/uc?id=1AXGH6ZK_R_dVyhhOm7iG08xB-jN6YfJm&export=download">
-                            Download</a>
-                    </div>
+            </a>
+            <a class="ui raised card" target="_blank" id="course-files">
+                <div class="content">
+                    <div class="header">Course Files</div>
+                    <div class="description">Access all course materials</div>
                 </div>
-            </div>
-            <div class="card">
-                <div class="content center-text">
-                    <div class="header">Schedule</div>
-                    <div class="description">Important dates and deadlines</div>
-                </div>
-                <div class="extra-content">
-                    <div class="ui two buttons pad-div border-top">
-                        <a class="ui basic button" target="_blank"
-                            href="https://drive.google.com/file/d/1zIYBhyG4KHYpFNdFsEVh01gdNwWCWWes/view?usp=sharing">
-                            View</a>
-                        <a class="ui basic button" target="_blank"
-                            href="https://drive.google.com/uc?id=1zIYBhyG4KHYpFNdFsEVh01gdNwWCWWes&export=download">
-                            Download</a>
-                    </div>
-                </div>
-            </div>
-            <div class="card">
-                <div class="content center-text">
-                    <div class="header">Leave of Absence Form</div>
+            </a>
+            <a class="ui raised card" target="_blank" id="absence-form">
+                <div class="content">
+                    <div class="header">Absence Form</div>
                     <div class="description">Let us know when you will miss a class</div>
                 </div>
-                <div class="extra-content">
-                    <div class="ui two buttons pad-div border-top">
-                        <a class="ui basic button" target="_blank" href="http://tinyurl.com/441winter2022absence">
-                            View</a>
-                    </div>
-                </div>
-            </div>
+            </a>
         </div>
-        <hr>
-        <h1>Course Staff</h1>
+        <div class="ui section divider"></div>
+        <h2>Course Staff</h2>
         <div class="ui centered three stackable cards pad-bottom">
             <div class="card">
                 <div class="image">
@@ -84,7 +59,7 @@
             </div>
             <div class="card">
                 <div class="image">
-                    <img src="images/person.png" />
+                    <img src="images/1641606140580.jpg" />
                 </div>
                 <div class="content center-text">
                     <div class="header">Aman Jalan</div>
@@ -100,7 +75,7 @@
             </div>
             <div class="card">
                 <div class="image">
-                    <img src="images/person.png" />
+                    <img src="images/1641925377239.jpg" />
                 </div>
                 <div class="content center-text">
                     <div class="header">Saumit Kukkadapu</div>
@@ -115,8 +90,8 @@
                 </div>
             </div>
         </div>
-        <hr>
-        <h1>Important Links</h1>
+        <div class="ui section divider"></div>
+        <h2>Important Links</h2>
         <div class="ui centered two stackable cards pad-bottom">
             <div class="card">
                 <div class="content center-text">
@@ -125,27 +100,23 @@
                 </div>
                 <div class="extra-content">
                     <div class="ui two buttons pad-div border-top">
-                        <a class="ui basic button" target="_blank"
-                            href="https://tinyurl.com/441winter2022sect1VideoClass">
+                        <a class="ui basic button" target="_blank" id="sec-1-videos">
                             Section 1</a>
-                        <a class="ui basic button" target="_blank"
-                            href="https://tinyurl.com/441winter2022sect2VideoClass">
+                        <a class="ui basic button" target="_blank" id="sec-2-videos">
                             Section 2</a>
                     </div>
                 </div>
             </div>
             <div class="card">
                 <div class="content center-text">
-                    <div class="header">Good Preso Examples</div>
+                    <div class="header">Preso Examples</div>
                     <div class="description">Good presentation formats</div>
                 </div>
                 <div class="extra-content">
                     <div class="ui two buttons pad-div border-top">
-                        <a class="ui basic button" target="_blank"
-                            href="http://www.slideshare.net/Sophia193014/headspace-company-presentation-250325322">
+                        <a class="ui basic button" target="_blank" id="preso-ex-1">
                             Example 1</a>
-                        <a class="ui basic button" target="_blank"
-                            href="https://www.slideshare.net/EshaBommireddy/esha-b-company-preso-big-basket">
+                        <a class="ui basic button" target="_blank" id="preso-ex-2">
                             Example 2</a>
                     </div>
                 </div>
@@ -171,15 +142,18 @@
                 </div>
                 <div class="extra-content">
                     <div class="ui two buttons pad-div border-top">
-                        <a class="ui basic button" target="_blank" href="https://docs.google.com/spreadsheets/d/1aEGG_revn9Z_8LTk-IO0mMER9hTNWN9JG1UCI3atPss/edit#gid=1849646168">
+                        <a class="ui basic button" target="_blank"
+                            href="https://docs.google.com/spreadsheets/d/1aEGG_revn9Z_8LTk-IO0mMER9hTNWN9JG1UCI3atPss/edit#gid=1849646168">
                             Section 1</a>
-                        <a class="ui basic button" target="_blank" href="https://docs.google.com/spreadsheets/d/1fe-zI3LOq_fgZoMhJyf26pd1jsFbb9pw8BsI8BtIlKE/edit">
+                        <a class="ui basic button" target="_blank"
+                            href="https://docs.google.com/spreadsheets/d/1fe-zI3LOq_fgZoMhJyf26pd1jsFbb9pw8BsI8BtIlKE/edit">
                             Section 2</a>
                     </div>
                 </div>
             </div>
         </div>
-        <h1>Participation Forms</h1>
+        <div class="ui section divider"></div>
+        <h2>Participation Forms</h2>
         <div class="ui centered two stackable cards pad-bottom">
             <div class="card">
                 <div class="content center-text">
@@ -244,7 +218,8 @@
                 </div>
             </div>
         </div>
-        <h1>Assignment Descriptions</h1>
+        <div class="ui section divider"></div>
+        <h2>Assignment Descriptions</h2>
         <div class="ui centered two stackable cards pad-bottom">
             <div class="card">
                 <div class="content center-text">
@@ -315,7 +290,8 @@
                 </div>
             </div>
         </div>
-        <h1>Assignment Submissions</h1>
+        <div class="ui section divider"></div>
+        <h2>Assignment Submissions</h2>
         <div class="ui centered three stackable cards pad-bottom">
             <div class="card">
                 <div class="content center-text">
@@ -400,7 +376,8 @@
                 </div>
             </div>
         </div>
-        <h1>Other Links</h1>
+        <div class="ui section divider"></div>
+        <h2>Other Links</h2>
         <div>
             <p>Link</p>
             <p>Link</p>
@@ -414,6 +391,9 @@
 
         </div>
     </div>
+    <script>
+        loadLinks();
+    </script>
 </body>
 
 </html>
