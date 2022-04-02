@@ -24,13 +24,13 @@ function loadLinks() {
     documentItem = document.getElementById("sec-1-videos");
     documentItem.href = links["Section 1 Class Videos"];
 
-    documentItem = document.getElementById("sec-2-videos");
-    documentItem.href = links["Section 2 Class Videos"];
+    // documentItem = document.getElementById("sec-2-videos");
+    // documentItem.href = links["Section 2 Class Videos"];
 
     documentItem = document.getElementById("preso-ex-1");
     documentItem.href = links["Preso Example 1"];
 
-    documentItem = document.getElementById("preso-ex-2");
-    documentItem.href = links["Preso Example 2"];
+    // documentItem = document.getElementById("preso-ex-2");
+    // documentItem.href = links["Preso Example 2"];
 
 }
