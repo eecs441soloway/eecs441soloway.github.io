@@ -21,6 +21,8 @@ var links = {
     "Student Work Section 1": "https://tinyurl.com/441winter2022section1",
     "Student Work Section 2": "https://tinyurl.com/441winter2022section2",
 
+    "IA Folder": "http://www.google.com/",
+
 
     "Project Preso Evaluation Section 1": "https://docs.google.com/forms/d/e/1FAIpQLSdCINmr2GGwtuHTZRpIZZ7lzINtj9WMY7v7U2EM_EUsGMtWOw/viewform?usp=sf_link",
     "Project Preso Evaluation Section 2": "https://docs.google.com/forms/d/e/1FAIpQLSdmVTOHNY16e9hHWUPQmCN9WIMgmKQWS2GSeVJBsChyur4P_w/viewform?usp=sf_link",
@@ -187,6 +189,9 @@ function loadLinks() {
 
     documentItem = document.getElementById("preso-ex-1");
     documentItem.href = links["Preso Example 1"];
+
+    documentItem = document.getElementById("ia-folder");
+    documentItem.href = links["IA Folder"];
 
     // documentItem = document.getElementById("preso-ex-2");
     // documentItem.href = links["Preso Example 2"];
