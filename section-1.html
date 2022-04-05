@@ -2,13 +2,12 @@
 <html lang="en">
 
 <head>
-    <!--copy link https://drive.google.com/drive/folders/1n6FZweU9rXQKCKDzz2GMfNGXxnR_kxg7?usp=sharing -->
     <script src="https://cdn.jsdelivr.net/npm/jquery@3.3.1/dist/jquery.min.js"></script>
     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/fomantic-ui@2.8.7/dist/semantic.min.css">
     <script src="https://cdn.jsdelivr.net/npm/fomantic-ui@2.8.7/dist/semantic.min.js"></script>
 
     <link rel="stylesheet" href="style.css">
-    <script src="script.js"></script>
+    <script src="links.js"></script>
 
 </head>
 
@@ -25,7 +24,7 @@
                     <div class="description">Course policies, dates, and deadlines</div>
                 </div>
             </a>
-            <a class="ui raised card" target="_blank" href="https://tinyurl.com/2p8zj9bn">
+            <a class="ui raised card" target="_blank" id="participation-sheet">
                 <div class="content">
                     <div class="header">Daily Participation Sheet</div>
                     <div class="description">Record your participation</div>
@@ -100,29 +99,28 @@
                 </div>
             </a>
 
-            <a class="ui raised card" target="_blank" id="preso-ex-1">
+            <a class="ui raised card" target="_blank" id="piazza">
                 <div class="content">
                     <div class="header">Piazza</div>
                     <div class="description">Ask questions here</div>
                 </div>
             </a>
 
-            <a class="ui raised card" target="_blank" href="https://piazza.com/class/kt1vml4g5m16zw">
+            <a class="ui raised card" target="_blank" id="preso-ex-1">
                 <div class="content">
-                    <div class="header">Preso Examples</div>
-                    <div class="description">Folow these formats</div>
+                    <div class="header">Preso Example</div>
+                    <div class="description">Folow this format</div>
                 </div>
             </a>
 
-            <a class="ui raised card" target="_blank"
-                href="https://docs.google.com/spreadsheets/d/1aEGG_revn9Z_8LTk-IO0mMER9hTNWN9JG1UCI3atPss/edit#gid=1849646168">
+            <a class="ui raised card" target="_blank" id="grades">
                 <div class="content">
-                    <div class="header">Grade Sheets</div>
+                    <div class="header">Student Grades</div>
                     <div class="description">Updated as of 4/01</div>
                 </div>
             </a>
 
-            <a class="ui raised card" target="_blank" href="https://tinyurl.com/441winter2022section1">
+            <a class="ui raised card" target="_blank" id="student-work">
                 <div class="content">
                     <div class="header">Student Work</div>
                     <div class="description">Google folder for student work</div>
@@ -133,24 +131,21 @@
         <h2>Evaluation Forms</h2>
         <div class="ui centered three stackable cards pad-bottom">
 
-            <a class="ui raised card" target="_blank"
-                href="https://docs.google.com/forms/d/e/1FAIpQLSdCINmr2GGwtuHTZRpIZZ7lzINtj9WMY7v7U2EM_EUsGMtWOw/viewform?usp=sf_link">
+            <a class="ui raised card" target="_blank" id="project-eval">
                 <div class="content">
                     <div class="header">Project Preso Evaluation</div>
                     <div class="description">Rate project presentations</div>
                 </div>
             </a>
 
-            <a class="ui raised card" target="_blank"
-                href="https://docs.google.com/forms/d/e/1FAIpQLSe60QEcYe234W3Vxz1ORJsyVJuuk2rd-lNHlp7g5t4os8yRsQ/viewform?usp=sf_link">
+            <a class="ui raised card" target="_blank" id="company-eval">
                 <div class="content">
                     <div class="header">Company Preso Evaluation</div>
                     <div class="description">Rate company presentations</div>
                 </div>
             </a>
 
-            <a class="ui raised card" target="_blank"
-                href="https://docs.google.com/forms/d/e/1FAIpQLScM6wwBwufLgvMpfxxMGXg2eJcwmxpVZs1nuql25Tj_WGooug/viewform?usp=sf_link">
+            <a class="ui raised card" target="_blank" id="team-eval">
                 <div class="content">
                     <div class="header">Team Evaluation</div>
                     <div class="description">Evaluate teams</div>
@@ -232,8 +227,10 @@
             </a>
 
         </div>
+
+        <div class="ui section divider"></div>
+
     </div>
-    <br><br><br><br>
     <script>
         loadSection1();
     </script>
