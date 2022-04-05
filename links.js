@@ -124,7 +124,7 @@ function loadSection1() {
     documentItem.href = links["Preso 5 Folder Section 1"];
 
     documentItem = document.getElementById("company-preso-folder");
-    documentItem.href = links["Company Preso Folder Section 2"];
+    documentItem.href = links["Company Preso Folder Section 1"];
 }
 
 function loadSection2() {
@@ -161,19 +161,19 @@ function loadSection2() {
     documentItem.href = links["Assignment 0 Folder Section 2"];
 
     documentItem = document.getElementById("preso-1-folder");
-    documentItem.href = links["Preso 1 Folder Section 1"];
+    documentItem.href = links["Preso 1 Folder Section 2"];
 
     documentItem = document.getElementById("preso-2-folder");
     documentItem.href = links["Preso 2 Folder Section 2"];
 
     documentItem = document.getElementById("preso-3-folder");
-    documentItem.href = links["Preso 3 Folder Section 3"];
+    documentItem.href = links["Preso 3 Folder Section 2"];
 
     documentItem = document.getElementById("preso-4-folder");
-    documentItem.href = links["Preso 4 Folder Section 4"];
+    documentItem.href = links["Preso 4 Folder Section 2"];
 
     documentItem = document.getElementById("preso-5-folder");
-    documentItem.href = links["Preso 5 Folder Section 5"];
+    documentItem.href = links["Preso 5 Folder Section 2"];
 
     documentItem = document.getElementById("company-preso-folder");
     documentItem.href = links["Company Preso Folder Section 2"];
