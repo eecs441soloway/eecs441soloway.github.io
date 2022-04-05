@@ -31,42 +31,33 @@ var links = {
     "Team Evaluation Section 1": "https://docs.google.com/forms/d/e/1FAIpQLScM6wwBwufLgvMpfxxMGXg2eJcwmxpVZs1nuql25Tj_WGooug/viewform?usp=sf_link",
     "Team Evaluation Section 2": "https://docs.google.com/forms/d/e/1FAIpQLSeVqQoWEyujfamkVAiE8rtOOVfolAO9J4fBlj-UPolxA9j9Jg/viewform?usp=sf_link",
 
-    "Elevator Pitch Description": "http://soloway.pbworks.com/f/441winter2022%20Your%20App%20Idea%20-%20Pitch.pdf",
-    "Elevator Pitch Due Dates": "Jan 7, 10, 12",
+    "Elevator Pitch Due Date": "Jan 7, 10, 12",
 
-
-    "Assignment 0 Description": "http://soloway.pbworks.com/f/441winter2022%20Project%20Analysis%20%230.pdf",
     "Assignment 0 Due Date": "Jan 7",
     "Assignment 0 Folder Section 1": "https://drive.google.com/drive/folders/1VjoJIOYTH8x3ziAeLhDY2Hsc3IgeSEPa",
     "Assignment 0 Folder Section 2": "https://drive.google.com/drive/folders/1VjoJIOYTH8x3ziAeLhDY2Hsc3IgeSEPa",
 
-    "Company Preso Due Date": "See schedule!",
-    "Company Preso Description": "http://soloway.pbworks.com/f/441winter2022%20company%20analysis%20preso%20template%20FINAL.pdf",
+    "Company Preso Due Date": "See schedule",
     "Company Preso Folder Section 1": "https://tinyurl.com/441winter2022section1company",
     "Company Preso Folder Section 2": "http://tinyurl.com/441winter2022section2company",
 
     "Preso 1 Due Date": "Jan 19",
-    "Preso 1 Description": "http://soloway.pbworks.com/f/441winter2022%20Design%20Preso%20%231.pdf",
     "Preso 1 Folder Section 1": "https://drive.google.com/drive/folders/1w53p4GgP3DJyZ_xkDtu3HBVVr_SHel_t",
     "Preso 1 Folder Section 2": "https://drive.google.com/drive/folders/1w53p4GgP3DJyZ_xkDtu3HBVVr_SHel_t",
 
     "Preso 2 Due Date": "Feb 2",
-    "Preso 2 Description": "http://soloway.pbworks.com/f/441winter2022%20%20preso%20%232%20who%20is%20your%20customer%20%2B%20MVP1.pdf",
     "Preso 2 Folder Section 1": "https://drive.google.com/drive/folders/12MQb9wClVARm56R-b2ohnLNRCEk9Wtd_",
     "Preso 2 Folder Section 2": "https://drive.google.com/drive/folders/12MQb9wClVARm56R-b2ohnLNRCEk9Wtd_",
 
     "Preso 3 Due Date": "Mar 14",
-    "Preso 3 Description": "http://soloway.pbworks.com/f/Preso%20%233%20441winter2022%20MVP1%20Live%20Demo%20Assignment.pdf",
     "Preso 3 Folder Section 1": "https://drive.google.com/drive/folders/1_hvwzZwN9Ed85UEeCzCC54blBST-hieF",
     "Preso 3 Folder Section 2": "https://drive.google.com/drive/folders/1_hvwzZwN9Ed85UEeCzCC54blBST-hieF",
 
     "Preso 4 Due Date": "Mar 23",
-    "Preso 4 Description": "http://soloway.pbworks.com/f/Preso%20%234%20441winter2022%20%2B%20comments%20MVP1%20data%20presentation%20%2B%20MVP2.pdf",
     "Preso 4 Folder Section 1": "https://drive.google.com/drive/folders/1IKnsCFjYUFtfyEOR_F7rYFNMG8zFtYzp",
     "Preso 4 Folder Section 2": "https://drive.google.com/drive/folders/1IKnsCFjYUFtfyEOR_F7rYFNMG8zFtYzp",
 
     "Preso 5 Due Date": "Apr 15, 18",
-    "Preso 5 Description": "http://soloway.pbworks.com/f/Preso%20%235%20441winter2022%20MVP2%20%2B%20data%20presentation.pdf",
     "Preso 5 Folder Section 1": "https://tinyurl.com/441winter2022sect1Assign5",
     "Preso 5 Folder Section 2": "https://tinyurl.com/441winter2022sect2Assign5",
 
@@ -198,56 +189,35 @@ function loadLinks() {
 
     // Elevator pitch assignment
     documentItem = document.getElementById("pitch-due");
-    documentItem.textContent = links["Elevator Pitch Due Dates"];
-    documentItem = document.getElementById("pitch-description");
-    documentItem.href = links["Elevator Pitch Description"];
+    documentItem.textContent = links["Elevator Pitch Due Date"];
 
     // Company Preso assignment
     documentItem = document.getElementById("company-preso-due");
     documentItem.textContent = links["Company Preso Due Date"];
-    documentItem = document.getElementById("company-preso-description");
-    documentItem.href = links["Company Preso Description"];
 
 
     // Assignment 0
     documentItem = document.getElementById("assign-0-due");
     documentItem.textContent = links["Assignment 0 Due Date"];
-    documentItem = document.getElementById("assign-0-description");
-    documentItem.href = links["Assignment 0 Description"];
 
 
     // Preso 1
     documentItem = document.getElementById("preso-1-due");
     documentItem.textContent = links["Preso 1 Due Date"];
-    documentItem = document.getElementById("preso-1-description");
-    documentItem.href = links["Preso 1 Description"];
-
 
     // Preso 2
     documentItem = document.getElementById("preso-2-due");
     documentItem.textContent = links["Preso 2 Due Date"];
-    documentItem = document.getElementById("preso-2-description");
-    documentItem.href = links["Preso 2 Description"];
-
 
     // Preso 3
     documentItem = document.getElementById("preso-3-due");
     documentItem.textContent = links["Preso 3 Due Date"];
-    documentItem = document.getElementById("preso-3-description");
-    documentItem.href = links["Preso 3 Description"];
-
 
     // Preso 4
     documentItem = document.getElementById("preso-4-due");
     documentItem.textContent = links["Preso 4 Due Date"];
-    documentItem = document.getElementById("preso-4-description");
-    documentItem.href = links["Preso 4 Description"];
-
 
     // Preso 5
     documentItem = document.getElementById("preso-5-due");
     documentItem.textContent = links["Preso 5 Due Date"];
-    documentItem = document.getElementById("preso-5-description");
-    documentItem.href = links["Preso 5 Description"];
-
 }
