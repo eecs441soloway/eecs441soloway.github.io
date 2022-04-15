@@ -69,7 +69,13 @@ var links = {
 function loadSection1() {
     loadLinks();
 
-    var documentItem = document.getElementById("participation-sheet");
+    var documentItem = document.getElementById("page-title");
+    documentItem.innerText = "EECS 441 Section 1";
+    documentItem = document.getElementById("section-title");
+    documentItem.innerText = "Section 1";
+    documentItem.href = "section-2.html";
+
+    documentItem = document.getElementById("participation-sheet");
     documentItem.href = links["Participation Sheet Section 1"];
 
     //documentItem = document.getElementById("course-files");
@@ -121,7 +127,13 @@ function loadSection1() {
 function loadSection2() {
     loadLinks();
 
-    var documentItem = document.getElementById("participation-sheet");
+    var documentItem = document.getElementById("page-title");
+    documentItem.innerText = "EECS 441 Section 2";
+    documentItem = document.getElementById("section-title");
+    documentItem.innerText = "Section 2";
+    documentItem.href = "section-1.html";
+
+    documentItem = document.getElementById("participation-sheet");
     documentItem.href = links["Participation Sheet Section 2"];
 
     //documentItem = document.getElementById("course-files");

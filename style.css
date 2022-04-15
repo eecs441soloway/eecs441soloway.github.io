@@ -1,17 +1,5 @@
-body {
-
-}
-
 h1 {
     padding-top: 4%;
-}
-
-p {
-    font-size: 0.9vw;
-    padding-bottom: 2%;
-}
-
-.pad-bottom {
 }
 
 .main-content {
@@ -28,4 +16,21 @@ p {
 
 .border-top {
     border-top: 1px solid lightgray;
+}
+
+/* Mobile 
+@media screen and (min-width:0px) {
+    body {
+        font-size: 3vw;
+    }
+    p {
+        font-size: 3vw;
+    }
+}
+
+/* Monitor 
+@media screen and (orientation:landscape) {
+    p {
+        font-size: 2vh;
+    }
 }
