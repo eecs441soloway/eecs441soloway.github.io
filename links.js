@@ -1,5 +1,5 @@
 var links = {
-    "Syllabus": "https://www.google.com",
+    "Syllabus": "https://drive.google.com/drive/u/1/folders/1TgFOcnLqCzXoeECp7yPcdxDkHApFpkNj",
 
     "Participation Sheet Section 1": "https://tinyurl.com/2p8zj9bn",
     "Participation Sheet Section 2": "https://tinyurl.com/w22section2attendance",
