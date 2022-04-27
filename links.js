@@ -18,8 +18,7 @@ var links = {
     "Grades Sheet Section 1": "https://docs.google.com/spreadsheets/d/1aEGG_revn9Z_8LTk-IO0mMER9hTNWN9JG1UCI3atPss/edit#gid=1849646168",
     "Grades Sheet Section 2": "https://docs.google.com/spreadsheets/d/1fe-zI3LOq_fgZoMhJyf26pd1jsFbb9pw8BsI8BtIlKE/edit",
 
-    "Student Work Section 1": "https://tinyurl.com/441winter2022section1",
-    "Student Work Section 2": "https://tinyurl.com/441winter2022section2",
+    "Past Work": "https://drive.google.com/drive/folders/1szxdbP8n2eZhyC-mczMpex5Fn9ve8ddm",
 
     "IA Folder": "http://www.google.com/",
 
@@ -195,6 +194,9 @@ function loadLinks() {
 
     documentItem = document.getElementById("ia-folder");
     documentItem.href = links["IA Folder"];
+    
+    documentItem = document.getElementById("past-work");
+    documentItem.href = links["Past Work"];
 
     // documentItem = document.getElementById("preso-ex-2");
     // documentItem.href = links["Preso Example 2"];
