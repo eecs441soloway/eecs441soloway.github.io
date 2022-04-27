@@ -18,9 +18,8 @@ var links = {
     "Grades Sheet Section 1": "https://docs.google.com/spreadsheets/d/1aEGG_revn9Z_8LTk-IO0mMER9hTNWN9JG1UCI3atPss/edit#gid=1849646168",
     "Grades Sheet Section 2": "https://docs.google.com/spreadsheets/d/1fe-zI3LOq_fgZoMhJyf26pd1jsFbb9pw8BsI8BtIlKE/edit",
 
-    "Past Work": "https://drive.google.com/drive/folders/1szxdbP8n2eZhyC-mczMpex5Fn9ve8ddm",
-
-    "IA Folder": "http://www.google.com/",
+    "Past Student Work": "https://drive.google.com/drive/folders/1szxdbP8n2eZhyC-mczMpex5Fn9ve8ddm",
+    "IA Only Folder": "https://drive.google.com/drive/folders/1OlYQhlxpFVrLPerZJn4TQ9VbgwedtlfQ",
 
 
     "Project Preso Evaluation Section 1": "https://docs.google.com/forms/d/e/1FAIpQLSdCINmr2GGwtuHTZRpIZZ7lzINtj9WMY7v7U2EM_EUsGMtWOw/viewform?usp=sf_link",
@@ -89,9 +88,6 @@ function loadSection1() {
     documentItem = document.getElementById("grades");
     documentItem.href = links["Grades Sheet Section 1"];
 
-    documentItem = document.getElementById("student-work");
-    documentItem.href = links["Student Work Section 1"];
-
     documentItem = document.getElementById("project-eval");
     documentItem.href = links["Project Preso Evaluation Section 1"];
 
@@ -147,9 +143,6 @@ function loadSection2() {
     documentItem = document.getElementById("grades");
     documentItem.href = links["Grades Sheet Section 2"];
 
-    documentItem = document.getElementById("student-work");
-    documentItem.href = links["Student Work Section 2"];
-
     documentItem = document.getElementById("project-eval");
     documentItem.href = links["Project Preso Evaluation Section 2"];
 
@@ -193,10 +186,10 @@ function loadLinks() {
     documentItem.href = links["Preso Example 1"];
 
     documentItem = document.getElementById("ia-folder");
-    documentItem.href = links["IA Folder"];
+    documentItem.href = links["IA Only Folder"];
     
     documentItem = document.getElementById("past-work");
-    documentItem.href = links["Past Work"];
+    documentItem.href = links["Past Student Work"];
 
     // documentItem = document.getElementById("preso-ex-2");
     // documentItem.href = links["Preso Example 2"];
