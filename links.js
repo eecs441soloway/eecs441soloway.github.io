@@ -36,7 +36,7 @@ var links = {
     "Assignment 0 Folder Section 2": "https://drive.google.com/drive/folders/1VjoJIOYTH8x3ziAeLhDY2Hsc3IgeSEPa",
 
     "Company Preso Due Date": "See schedule",
-    "Company Preso Folder Section 1": "https://tinyurl.com/441winter2022section1company",
+    "Company Preso Folder Section 1": "https://drive.google.com/drive/u/2/folders/15xS1uPnXV8P1KReRSwx4TG15aytDFiID",
     "Company Preso Folder Section 2": "http://tinyurl.com/441winter2022section2company",
 
     "Preso 1 Due Date": "",
