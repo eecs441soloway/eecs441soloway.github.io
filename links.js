@@ -71,7 +71,7 @@ function loadSection1() {
     documentItem.innerText = "EECS 441 Section 1";
     documentItem = document.getElementById("section-title");
     documentItem.innerText = "Section 1";
-    documentItem.href = "section-2.html";
+    documentItem.href = "section-1.html";
 
     documentItem = document.getElementById("participation-sheet");
     documentItem.href = links["Participation Sheet Section 1"];
@@ -187,7 +187,7 @@ function loadLinks() {
 
     documentItem = document.getElementById("ia-folder");
     documentItem.href = links["IA Only Folder"];
-    
+
     documentItem = document.getElementById("past-work");
     documentItem.href = links["Past Student Work"];
 
