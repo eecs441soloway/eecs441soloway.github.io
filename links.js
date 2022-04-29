@@ -48,15 +48,15 @@ var links = {
     "Preso 2 Folder Section 2": "https://drive.google.com/drive/folders/12MQb9wClVARm56R-b2ohnLNRCEk9Wtd_",
 
     "Preso 3 Due Date": "",
-    "Preso 3 Folder Section 1": "https://drive.google.com/drive/folders/1_hvwzZwN9Ed85UEeCzCC54blBST-hieF",
+    "Preso 3 Folder Section 1": "https://drive.google.com/drive/u/2/folders/1nM1kHlH_RDVkqtvipAZZxT4J4jlPxLqB",
     "Preso 3 Folder Section 2": "https://drive.google.com/drive/folders/1_hvwzZwN9Ed85UEeCzCC54blBST-hieF",
 
     "Preso 4 Due Date": "",
-    "Preso 4 Folder Section 1": "https://drive.google.com/drive/folders/1IKnsCFjYUFtfyEOR_F7rYFNMG8zFtYzp",
+    "Preso 4 Folder Section 1": "https://drive.google.com/drive/u/2/folders/1m5DniCmlq9RQwxEDBYEomI2ODLwh5JRn",
     "Preso 4 Folder Section 2": "https://drive.google.com/drive/folders/1IKnsCFjYUFtfyEOR_F7rYFNMG8zFtYzp",
 
     "Preso 5 Due Date": "",
-    "Preso 5 Folder Section 1": "https://tinyurl.com/441winter2022sect1Assign5",
+    "Preso 5 Folder Section 1": "https://drive.google.com/drive/u/2/folders/109wx6KO516MqdKal2Wfpj8NgKXADbddb",
     "Preso 5 Folder Section 2": "https://tinyurl.com/441winter2022sect2Assign5",
 
     "Course Files Section 1": "https://devondoyle.com",
