@@ -6,7 +6,7 @@ var links = {
 
     "Absence Form": "http://tinyurl.com/441winter2022absence",
 
-    "Class Recordings Section 1": "https://tinyurl.com/441winter2022sect1VideoClass",
+    "Class Recordings Section 1": "https://tinyurl.com/441spring2022ClassVideos",
     "Class Recordings Section 2": "https://tinyurl.com/441winter2022sect2VideoClass",
 
     "Piazza Section 1": "https://piazza.com/class/kt1vml4g5m16zw",
