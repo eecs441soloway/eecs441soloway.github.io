@@ -29,7 +29,7 @@ var links = {
     "Team Evaluation Section 1": "https://docs.google.com/forms/d/e/1FAIpQLScM6wwBwufLgvMpfxxMGXg2eJcwmxpVZs1nuql25Tj_WGooug/viewform?usp=sf_link",
     "Team Evaluation Section 2": "https://docs.google.com/forms/d/e/1FAIpQLSeVqQoWEyujfamkVAiE8rtOOVfolAO9J4fBlj-UPolxA9j9Jg/viewform?usp=sf_link",
 
-    "Elevator Pitch Due Date": "Jan 7, 10, 12",
+    "Elevator Pitch Due Date": "",
 
     "Assignment 0 Due Date": "Jan 7",
     "Assignment 0 Folder Section 1": "https://drive.google.com/drive/folders/1VjoJIOYTH8x3ziAeLhDY2Hsc3IgeSEPa",
