@@ -39,23 +39,23 @@ var links = {
     "Company Preso Folder Section 1": "https://tinyurl.com/441winter2022section1company",
     "Company Preso Folder Section 2": "http://tinyurl.com/441winter2022section2company",
 
-    "Preso 1 Due Date": "Jan 19",
+    "Preso 1 Due Date": "",
     "Preso 1 Folder Section 1": "https://drive.google.com/drive/u/2/folders/1bsIphLdh-Y6iclhmJQnNS6E7Ig6sSzaR",
     "Preso 1 Folder Section 2": "https://drive.google.com/drive/folders/1w53p4GgP3DJyZ_xkDtu3HBVVr_SHel_t",
 
-    "Preso 2 Due Date": "Feb 2",
-    "Preso 2 Folder Section 1": "https://drive.google.com/drive/folders/12MQb9wClVARm56R-b2ohnLNRCEk9Wtd_",
+    "Preso 2 Due Date": "",
+    "Preso 2 Folder Section 1": "https://drive.google.com/drive/u/2/folders/1YtzfaMO3OXLYP8ZhCDslji4cjMM-ISOx",
     "Preso 2 Folder Section 2": "https://drive.google.com/drive/folders/12MQb9wClVARm56R-b2ohnLNRCEk9Wtd_",
 
-    "Preso 3 Due Date": "Mar 14",
+    "Preso 3 Due Date": "",
     "Preso 3 Folder Section 1": "https://drive.google.com/drive/folders/1_hvwzZwN9Ed85UEeCzCC54blBST-hieF",
     "Preso 3 Folder Section 2": "https://drive.google.com/drive/folders/1_hvwzZwN9Ed85UEeCzCC54blBST-hieF",
 
-    "Preso 4 Due Date": "Mar 23",
+    "Preso 4 Due Date": "",
     "Preso 4 Folder Section 1": "https://drive.google.com/drive/folders/1IKnsCFjYUFtfyEOR_F7rYFNMG8zFtYzp",
     "Preso 4 Folder Section 2": "https://drive.google.com/drive/folders/1IKnsCFjYUFtfyEOR_F7rYFNMG8zFtYzp",
 
-    "Preso 5 Due Date": "Apr 15, 18",
+    "Preso 5 Due Date": "",
     "Preso 5 Folder Section 1": "https://tinyurl.com/441winter2022sect1Assign5",
     "Preso 5 Folder Section 2": "https://tinyurl.com/441winter2022sect2Assign5",
 
