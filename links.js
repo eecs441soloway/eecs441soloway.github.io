@@ -31,8 +31,8 @@ var links = {
 
     "Elevator Pitch Due Date": "",
 
-    "Assignment 0 Due Date": "Jan 7",
-    "Assignment 0 Folder Section 1": "https://drive.google.com/drive/folders/1VjoJIOYTH8x3ziAeLhDY2Hsc3IgeSEPa",
+    "Assignment 0 Due Date": "",
+    "Assignment 0 Folder Section 1": "https://drive.google.com/drive/u/2/folders/1mP2zihVwoitO267gWblBE0v_rqQs6_UR",
     "Assignment 0 Folder Section 2": "https://drive.google.com/drive/folders/1VjoJIOYTH8x3ziAeLhDY2Hsc3IgeSEPa",
 
     "Company Preso Due Date": "See schedule",
