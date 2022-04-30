@@ -9,7 +9,7 @@ var links = {
     "Class Recordings Section 1": "https://tinyurl.com/441spring2022ClassVideos",
     "Class Recordings Section 2": "https://tinyurl.com/441winter2022sect2VideoClass",
 
-    "Piazza Section 1": "https://piazza.com/class/kt1vml4g5m16zw",
+    "Piazza Section 1": "https://piazza.com/class/l2ldumr996x5gd?cid=1",
     "Piazza Section 2": "https://piazza.com/class/kt1rnxpsepp5my",
 
     "Preso Example 1": "http://www.slideshare.net/Sophia193014/headspace-company-presentation-250325322",
