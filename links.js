@@ -198,7 +198,7 @@ function loadLinks() {
     // Elevator pitch assignment
 
     documentItem = document.getElementById("pitch-folder");
-    documentItem.href = links["Pitch Folder"];
+    documentItem.href = links["Pitch folder"];
 
     documentItem = document.getElementById("pitch-due");
     documentItem.textContent = links["Elevator Pitch Due Date"];
