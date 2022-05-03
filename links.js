@@ -1,10 +1,10 @@
 var links = {
     "Syllabus": "https://drive.google.com/drive/u/1/folders/1TgFOcnLqCzXoeECp7yPcdxDkHApFpkNj",
 
-    "Participation Sheet Section 1": "https://tinyurl.com/2p8zj9bn",
+    "Participation Sheet Section 1": "https://docs.google.com/spreadsheets/d/1d1Rv0I9CcK80-Qb6EUzBMvpWat-C95URmzndY-zLmp8/edit#gid=0",
     "Participation Sheet Section 2": "https://tinyurl.com/w22section2attendance",
 
-    "Absence Form": "http://tinyurl.com/441winter2022absence",
+    "Absence Form": "https://docs.google.com/forms/d/e/1FAIpQLSfLyYQJC66SUSURk6d4gG2kmuIOZcp8AzgoLke6JCjB3OQb1Q/viewform?usp=sf_link",
 
     "Class Recordings Section 1": "https://tinyurl.com/441spring2022ClassVideos",
     "Class Recordings Section 2": "https://tinyurl.com/441winter2022sect2VideoClass",
@@ -22,9 +22,9 @@ var links = {
     "IA Only Folder": "https://drive.google.com/drive/folders/1OlYQhlxpFVrLPerZJn4TQ9VbgwedtlfQ",
 
 
-    "Project Preso Evaluation Section 1": "https://docs.google.com/forms/d/e/1FAIpQLSdCINmr2GGwtuHTZRpIZZ7lzINtj9WMY7v7U2EM_EUsGMtWOw/viewform?usp=sf_link",
+    "Project Preso Evaluation Section 1": "#",
     "Project Preso Evaluation Section 2": "https://docs.google.com/forms/d/e/1FAIpQLSdmVTOHNY16e9hHWUPQmCN9WIMgmKQWS2GSeVJBsChyur4P_w/viewform?usp=sf_link",
-    "Company Preso Evaluation Section 1": "https://docs.google.com/forms/d/e/1FAIpQLSdybOGWI03vyGOuvd4mMKSTskAdh9YpWueYAet4XBnxyt9n9Q/viewform?vc=0&c=0&w=1&flr=0",
+    "Company Preso Evaluation Section 1": "https://docs.google.com/forms/d/e/1FAIpQLSdybOGWI03vyGOuvd4mMKSTskAdh9YpWueYAet4XBnxyt9n9Q/viewform?usp=sf_link",
     "Company Preso Evaluation Section 2": "https://docs.google.com/forms/d/e/1FAIpQLSco3Xa7nJ80VBCnvmDHd8TSdsg_iem6g3MO_KcS-oZCtnUtHA/viewform?usp=sf_link",
     "Team Evaluation Section 1": "https://docs.google.com/forms/d/e/1FAIpQLScM6wwBwufLgvMpfxxMGXg2eJcwmxpVZs1nuql25Tj_WGooug/viewform?usp=sf_link",
     "Team Evaluation Section 2": "https://docs.google.com/forms/d/e/1FAIpQLSeVqQoWEyujfamkVAiE8rtOOVfolAO9J4fBlj-UPolxA9j9Jg/viewform?usp=sf_link",
@@ -62,6 +62,9 @@ var links = {
 
     "Course Files Section 1": "https://devondoyle.com",
     "Course Files Section 2": "https://devondoyle.com",
+
+    "Project Groups Due Date": "",
+    "Project Groups": "https://docs.google.com/forms/d/e/1FAIpQLSdEi7eOnqtfoxnOriYfax_B_GwEE29wTi17gK0HR48kCB4aMg/viewform?usp=sf_link",
 
 }
 
@@ -232,4 +235,10 @@ function loadLinks() {
     // Preso 5
     documentItem = document.getElementById("preso-5-due");
     documentItem.textContent = links["Preso 5 Due Date"];
+
+    // Project groups
+    documentItem = document.getElementById("project-groups-forms");
+    documentItem.href = links["Project Groups"]
+    documentItem = document.getElementById("project-groups-due");
+    documentItem.textContent = links["Project Groups Due Date"]
 }
