@@ -122,6 +122,9 @@ function loadSection1() {
 
     documentItem = document.getElementById("company-preso-folder");
     documentItem.href = links["Company Preso Folder Section 1"];
+
+    documentItem = document.getElementById("reading-folder");
+    documentItem.href = links["Reading folder"];
 }
 
 function loadSection2() {
@@ -190,8 +193,6 @@ function loadLinks() {
     documentItem = document.getElementById("preso-ex-1");
     documentItem.href = links["Preso Example 1"];
 
-    documentItem = document.getElementById("reading-folder");
-    documentItem.href = links["Reading folder"];
 
     documentItem = document.getElementById("past-work");
     documentItem.href = links["Past Student Work"];
