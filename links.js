@@ -12,7 +12,7 @@ var links = {
     "Piazza Section 1": "https://piazza.com/class/l2ldumr996x5gd?cid=1",
     "Piazza Section 2": "https://piazza.com/class/kt1rnxpsepp5my",
 
-    "Preso Example 1": "http://www.slideshare.net/Sophia193014/headspace-company-presentation-250325322",
+    "Preso Example 1": "https://drive.google.com/drive/folders/1gvoMNrSzKkWCEU6yIeF3haVTS4ekGPlj",
     "Preso Example 2": "https://www.slideshare.net/EshaBommireddy/esha-b-company-preso-big-basket",
 
     "Grades Sheet Section 1": "https://docs.google.com/spreadsheets/d/1aEGG_revn9Z_8LTk-IO0mMER9hTNWN9JG1UCI3atPss/edit#gid=1849646168",
