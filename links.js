@@ -33,7 +33,7 @@ var links = {
     "Elevator Pitch Due Date": "May 4,5,6,9",
 
     "Assignment 0 Due Date": "May 4",
-    "Assignment 0 Folder Section 1": "https://drive.google.com/drive/u/2/folders/1vwAb1uuIqa45wMEgY6Se0sEmnU5FNGTv",
+    "Assignment 0 Folder Section 1": "https://drive.google.com/drive/u/0/folders/1vwAb1uuIqa45wMEgY6Se0sEmnU5FNGTv",
     "Assignment 0 Folder Section 2": "https://drive.google.com/drive/folders/1VjoJIOYTH8x3ziAeLhDY2Hsc3IgeSEPa",
 
     "Company Preso Due Date": "See schedule",
@@ -66,6 +66,7 @@ var links = {
     "Project Groups Due Date": "",
     "Project Groups": "https://docs.google.com/forms/d/e/1FAIpQLSdEi7eOnqtfoxnOriYfax_B_GwEE29wTi17gK0HR48kCB4aMg/viewform?usp=sf_link",
 
+    "Reading folder": "https://drive.google.com/drive/folders/19RadzAlll_wQ_prG_i7koLSjaIzuXs3j",
 }
 
 function loadSection1() {
@@ -189,8 +190,8 @@ function loadLinks() {
     documentItem = document.getElementById("preso-ex-1");
     documentItem.href = links["Preso Example 1"];
 
-    documentItem = document.getElementById("ia-folder");
-    documentItem.href = links["IA Only Folder"];
+    documentItem = document.getElementById("reading-folder");
+    documentItem.href = links["Reading folder"];
 
     documentItem = document.getElementById("past-work");
     documentItem.href = links["Past Student Work"];
