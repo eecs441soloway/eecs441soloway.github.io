@@ -244,3 +244,11 @@ function loadLinks() {
     documentItem = document.getElementById("project-groups-due");
     documentItem.textContent = links["Project Groups Due Date"]
 }
+
+
+function toggleAbout() {
+    var documentItem = document.getElementById("about");
+    console.log(documentItem.style.display);
+    if (documentItem.style.display == "none") documentItem.style.display = "block";
+    else documentItem.style.display = "none";
+}
