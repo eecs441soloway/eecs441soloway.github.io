@@ -15,7 +15,7 @@ var links = {
     "Preso Example 1": "https://drive.google.com/drive/folders/1gvoMNrSzKkWCEU6yIeF3haVTS4ekGPlj",
     "Preso Example 2": "https://www.slideshare.net/EshaBommireddy/esha-b-company-preso-big-basket",
 
-    "Grades Sheet Section 1": "https://docs.google.com/spreadsheets/d/1ET5DCNzYBoEWdTshdP7bX5ZiG_zkcOZ9iNfYsahnKkk/edit#gid=1849646168",
+    "Grades Sheet Section 1": "https://docs.google.com/spreadsheets/d/1jW3Oilx7syeTY9S2AejK9BYg11nPM5sXyIa3TDqOlrE/edit#gid=0",
     "Grades Sheet Section 2": "https://docs.google.com/spreadsheets/d/1fe-zI3LOq_fgZoMhJyf26pd1jsFbb9pw8BsI8BtIlKE/edit",
 
     "Past Student Work": "https://drive.google.com/drive/folders/1szxdbP8n2eZhyC-mczMpex5Fn9ve8ddm",
