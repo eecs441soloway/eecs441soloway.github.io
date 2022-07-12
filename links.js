@@ -30,9 +30,9 @@ var links = {
     "Team Evaluation Section 2": "https://docs.google.com/forms/d/e/1FAIpQLSeVqQoWEyujfamkVAiE8rtOOVfolAO9J4fBlj-UPolxA9j9Jg/viewform?usp=sf_link",
 
     "Pitch folder": "https://drive.google.com/drive/u/2/folders/1JfgYFOhfJaoaJH72CLa4DAGk1SDisFO5",
-    "Elevator Pitch Due Date": "May 4,5,6,9",
+    "Elevator Pitch Due Date": "",
 
-    "Assignment 0 Due Date": "May 4",
+    "Assignment 0 Due Date": "",
     "Assignment 0 Folder Section 1": "https://drive.google.com/drive/u/0/folders/1vwAb1uuIqa45wMEgY6Se0sEmnU5FNGTv",
     "Assignment 0 Folder Section 2": "https://drive.google.com/drive/folders/1VjoJIOYTH8x3ziAeLhDY2Hsc3IgeSEPa",
 
@@ -40,19 +40,19 @@ var links = {
     "Company Preso Folder Section 1": "https://drive.google.com/drive/u/2/folders/15xS1uPnXV8P1KReRSwx4TG15aytDFiID",
     "Company Preso Folder Section 2": "http://tinyurl.com/441winter2022section2company",
 
-    "Preso 1 Due Date": "May 11",
+    "Preso 1 Due Date": "",
     "Preso 1 Folder Section 1": "https://drive.google.com/drive/u/2/folders/1bsIphLdh-Y6iclhmJQnNS6E7Ig6sSzaR",
     "Preso 1 Folder Section 2": "https://drive.google.com/drive/folders/1w53p4GgP3DJyZ_xkDtu3HBVVr_SHel_t",
 
-    "Preso 2 Due Date": "May 16",
+    "Preso 2 Due Date": "",
     "Preso 2 Folder Section 1": "https://drive.google.com/drive/u/2/folders/1YtzfaMO3OXLYP8ZhCDslji4cjMM-ISOx",
     "Preso 2 Folder Section 2": "https://drive.google.com/drive/folders/12MQb9wClVARm56R-b2ohnLNRCEk9Wtd_",
 
-    "Preso 3 Due Date": "June 8",
+    "Preso 3 Due Date": "",
     "Preso 3 Folder Section 1": "https://drive.google.com/drive/u/2/folders/1nM1kHlH_RDVkqtvipAZZxT4J4jlPxLqB",
     "Preso 3 Folder Section 2": "https://drive.google.com/drive/folders/1_hvwzZwN9Ed85UEeCzCC54blBST-hieF",
 
-    "Preso 4 Due Date": "June 17, 20",
+    "Preso 4 Due Date": "",
     "Preso 4 Folder Section 1": "https://drive.google.com/drive/u/2/folders/1m5DniCmlq9RQwxEDBYEomI2ODLwh5JRn",
     "Preso 4 Folder Section 2": "https://drive.google.com/drive/folders/1IKnsCFjYUFtfyEOR_F7rYFNMG8zFtYzp",
 
@@ -76,7 +76,7 @@ function loadSection1() {
     documentItem.innerText = "EECS 441 Section 1";
     documentItem = document.getElementById("section-title");
     documentItem.innerText = "Section 1";
-    documentItem.href = "section-1.html";
+    documentItem.href = "441WN23_Section2.html";
 
     documentItem = document.getElementById("participation-sheet");
     documentItem.href = links["Participation Sheet Section 1"];
@@ -134,7 +134,7 @@ function loadSection2() {
     documentItem.innerText = "EECS 441 Section 2";
     documentItem = document.getElementById("section-title");
     documentItem.innerText = "Section 2";
-    documentItem.href = "section-1.html";
+    documentItem.href = "441WN23_Section1.html";
 
     documentItem = document.getElementById("participation-sheet");
     documentItem.href = links["Participation Sheet Section 2"];
@@ -202,8 +202,8 @@ function loadLinks() {
 
     // Elevator pitch assignment
 
-    documentItem = document.getElementById("pitch-folder");
-    documentItem.href = links["Pitch folder"];
+    // documentItem = document.getElementById("pitch-folder");
+    // documentItem.href = links["Pitch folder"];
 
     documentItem = document.getElementById("pitch-due");
     documentItem.textContent = links["Elevator Pitch Due Date"];
@@ -240,9 +240,9 @@ function loadLinks() {
 
     // Project groups
     documentItem = document.getElementById("project-groups-forms");
-    documentItem.href = links["Project Groups"]
+    // documentItem.href = links["Project Groups"]
     documentItem = document.getElementById("project-groups-due");
-    documentItem.textContent = links["Project Groups Due Date"]
+    // documentItem.textContent = links["Project Groups Due Date"]
 }
 
 
