@@ -1,38 +1,40 @@
 var links = {
-    "Syllabus": "https://drive.google.com/drive/u/1/folders/1TgFOcnLqCzXoeECp7yPcdxDkHApFpkNj",
+    "Syllabus": "https://drive.google.com/drive/u/0/folders/1rG6VIm6mbqUnJnCFZfs3Fd6fNrGSRS0K",
 
-    "Participation Sheet Section 1": "https://docs.google.com/spreadsheets/d/1d1Rv0I9CcK80-Qb6EUzBMvpWat-C95URmzndY-zLmp8/edit#gid=0",
-    "Participation Sheet Section 2": "https://tinyurl.com/w22section2attendance",
+    "Participation Sheet Section 1": "https://docs.google.com/spreadsheets/d/1-xQr0kiF7LgMjjQaUr_2H7VzGC2rzbVmynaxwW2L1zA/edit?usp=sharing",
+    "Participation Sheet Section 2": "https://docs.google.com/spreadsheets/d/1dj9XEoFHBe1nqOkwLnNEjf_MVX5ZEsgwrD9CZD5vVpo/edit?usp=sharing",
 
-    "Absence Form": "https://docs.google.com/forms/d/e/1FAIpQLSfLyYQJC66SUSURk6d4gG2kmuIOZcp8AzgoLke6JCjB3OQb1Q/viewform?usp=sf_link",
+    "Absence Form": "https://forms.gle/McsRdqbfG7pvbBsN9",
 
+    // Todo still
     "Class Recordings Section 1": "https://tinyurl.com/441spring2022ClassVideos",
     "Class Recordings Section 2": "https://tinyurl.com/441winter2022sect2VideoClass",
 
-    "Piazza Section 1": "https://piazza.com/class/l2ldumr996x5gd?cid=1",
-    "Piazza Section 2": "https://piazza.com/class/kt1rnxpsepp5my",
+    "Piazza Section 1": "https://piazza.com/umich/winter2023/eecs441001",
+    "Piazza Section 2": "https://piazza.com/umich/winter2023/eecs441002",
 
     "Preso Example 1": "https://drive.google.com/drive/folders/1gvoMNrSzKkWCEU6yIeF3haVTS4ekGPlj",
     "Preso Example 2": "https://www.slideshare.net/EshaBommireddy/esha-b-company-preso-big-basket",
 
-    "Grades Sheet Section 1": "https://docs.google.com/spreadsheets/d/1jW3Oilx7syeTY9S2AejK9BYg11nPM5sXyIa3TDqOlrE/edit#gid=0",
-    "Grades Sheet Section 2": "https://docs.google.com/spreadsheets/d/1fe-zI3LOq_fgZoMhJyf26pd1jsFbb9pw8BsI8BtIlKE/edit",
+    "Grades Sheet Section 1": "https://docs.google.com/spreadsheets/d/1aEGG_revn9Z_8LTk-IO0mMER9hTNWN9JG1UCI3atPss/edit#gid=1849646168",
+    "Grades Sheet Section 2": "https://docs.google.com/spreadsheets/d/176q8sLnUlDmLNbyEvYQ1W-QiZZS4jT_gjb28KUMTJWo/edit#gid=1849646168",
 
     "Past Student Work": "https://drive.google.com/drive/folders/1szxdbP8n2eZhyC-mczMpex5Fn9ve8ddm",
     "IA Only Folder": "https://drive.google.com/drive/folders/1OlYQhlxpFVrLPerZJn4TQ9VbgwedtlfQ",
 
 
-    "Project Preso Evaluation Section 1": "https://docs.google.com/forms/d/e/1FAIpQLSfQUBVCXJ7zChIY-6JniFhf4YB_v8xorDzVtfITu9yKSU3wRw/viewform?usp=sf_link#",
-    "Project Preso Evaluation Section 2": "https://docs.google.com/forms/d/e/1FAIpQLSdmVTOHNY16e9hHWUPQmCN9WIMgmKQWS2GSeVJBsChyur4P_w/viewform?usp=sf_link",
-    "Company Preso Evaluation Section 1": "https://docs.google.com/forms/d/e/1FAIpQLSdybOGWI03vyGOuvd4mMKSTskAdh9YpWueYAet4XBnxyt9n9Q/viewform?usp=sf_link",
-    "Company Preso Evaluation Section 2": "https://docs.google.com/forms/d/e/1FAIpQLSco3Xa7nJ80VBCnvmDHd8TSdsg_iem6g3MO_KcS-oZCtnUtHA/viewform?usp=sf_link",
-    "Team Evaluation Section 1": "https://docs.google.com/forms/d/e/1FAIpQLSeb0kkR-BBxAJdcUtghBOq1TmolSwUMUS885_ERfJAZeHhjPw/viewform?usp=sf_link",
-    "Team Evaluation Section 2": "https://docs.google.com/forms/d/e/1FAIpQLSeVqQoWEyujfamkVAiE8rtOOVfolAO9J4fBlj-UPolxA9j9Jg/viewform?usp=sf_link",
+    "Project Preso Evaluation Section 1": "https://docs.google.com/forms/d/e/1FAIpQLSdCINmr2GGwtuHTZRpIZZ7lzINtj9WMY7v7U2EM_EUsGMtWOw/viewform?usp=sf_link",
+    "Project Preso Evaluation Section 2": "https://docs.google.com/forms/d/e/1FAIpQLSfKAAdODk2sWAkKwSQM_UofC10IG580xDJD1txn9nCU2E_uBw/viewform?usp=sf_link",
+    "Company Preso Evaluation Section 1": "https://docs.google.com/forms/d/e/1FAIpQLSe60QEcYe234W3Vxz1ORJsyVJuuk2rd-lNHlp7g5t4os8yRsQ/viewform?usp=sf_link",
+    "Company Preso Evaluation Section 2": "https://docs.google.com/forms/d/e/1FAIpQLSfhZi1VDp-FJbYOX5AjO43ejFe3pmF36vl9VhOYbbFBLMI_rw/viewform?usp=sf_link",
+    "Team Evaluation Section 1": "https://docs.google.com/forms/d/e/1FAIpQLScM6wwBwufLgvMpfxxMGXg2eJcwmxpVZs1nuql25Tj_WGooug/viewform?usp=sf_link",
+    "Team Evaluation Section 2": "https://docs.google.com/forms/d/e/1FAIpQLSe4skIT6e1q1kZkpIhO_vWctOw9_ojLpwOelNSC4WJ1YC8KQw/viewform?usp=sf_link",
 
-    "Pitch folder": "https://drive.google.com/drive/u/2/folders/1JfgYFOhfJaoaJH72CLa4DAGk1SDisFO5",
-    "Elevator Pitch Due Date": "",
+    "Pitch folder Section 1": "https://drive.google.com/drive/folders/1gP2NAVFwY6X5-yfkp4hhKoA4QPD6CjVa",
+    "Pitch folder Section 2": "https://drive.google.com/drive/folders/1DCG71WO0LpesoCvwPvNSjBjxd_rrXaIS",
+    "Elevator Pitch Due Date": "See schedule",
 
-    "Assignment 0 Due Date": "",
+    "Assignment 0 Due Date": "See schedule",
     "Assignment 0 Folder Section 1": "https://drive.google.com/drive/folders/16q7J-NFMAv8Ek0q6Mb3eeR43xzwVAPIs",
     "Assignment 0 Folder Section 2": "https://drive.google.com/drive/folders/1it2zTDzZk7OFr8vup9H246Kg7KSRXnfH",
 
@@ -44,31 +46,31 @@ var links = {
     "Current Event Folder Section 1": "https://drive.google.com/drive/folders/1SnWksntKAkJzUPtghGVmtn3k8cxIw46c",
     "Current Event Folder Section 2": "https://drive.google.com/drive/folders/1LOwsTL0vVsxCc077UdjprmYtHnP_3iO5",
 
-    "Preso 1 Due Date": "",
+    "Preso 1 Due Date": "See schedule",
     "Preso 1 Folder Section 1": "https://drive.google.com/drive/folders/1j2oHVW5-HtusSsaIjriaWC0hzsQ8SESA",
     "Preso 1 Folder Section 2": "https://drive.google.com/drive/folders/1OGapyKhETGRgoR_q9nCuAPruGAvaYg31",
 
-    "Preso 2 Due Date": "",
+    "Preso 2 Due Date": "See schedule",
     "Preso 2 Folder Section 1": "https://drive.google.com/drive/folders/1GcQKZiEM7gqrhIm89mqAe5SdLM4QEjgg",
     "Preso 2 Folder Section 2": "https://drive.google.com/drive/folders/166rrTeGOiNi1F0ZRSum1RRoktg9yp9Lf",
 
-    "Preso 3 Due Date": "",
+    "Preso 3 Due Date": "See schedule",
     "Preso 3 Folder Section 1": "https://drive.google.com/drive/folders/1WHTqm22mwabKqENxjjOtsRBlsNNlSQvm",
     "Preso 3 Folder Section 2": "https://drive.google.com/drive/folders/1RTIKUXPXPSCo6qG1MKo1ml5RnlsmSrZq",
 
-    "Preso 4 Due Date": "",
+    "Preso 4 Due Date": "See schedule",
     "Preso 4 Folder Section 1": "https://drive.google.com/drive/folders/1QInvTAzu2_NFqsJRu3mCUAZf8heTMLk6",
     "Preso 4 Folder Section 2": "https://drive.google.com/drive/folders/1SU-ErXwtUGBsNlFn1i_BMp1sZkodv7_r",
 
-    "Preso 5 Due Date": "",
+    "Preso 5 Due Date": "See schedule",
     "Preso 5 Folder Section 1": "https://drive.google.com/drive/folders/1fdmpwgRwpE9UDES1qsrrTQqkQ-mykeNQ",
     "Preso 5 Folder Section 2": "https://drive.google.com/drive/folders/1wPytNPErQ6YUb6fFYQiNNJwSUQo4uLBw",
 
     "Course Files Section 1": "https://devondoyle.com",
     "Course Files Section 2": "https://devondoyle.com",
 
-    "Project Groups Due Date": "",
-    "Project Groups": "https://docs.google.com/forms/d/e/1FAIpQLSdEi7eOnqtfoxnOriYfax_B_GwEE29wTi17gK0HR48kCB4aMg/viewform?usp=sf_link",
+    "Project Groups Due Date": "See schedule",
+    "Project Groups": "https://docs.google.com/forms/d/e/1FAIpQLSeKduxshrIuDVk9i72WfHFPYuMvAUyXv4xhBkdMw8v2DsLRYA/viewform?usp=sf_link",
     "Reading folder": "https://drive.google.com/drive/folders/1ydX-RGexrRCjv3xk0R-I0JNpm6R3wqLK",
 }
 
@@ -131,6 +133,9 @@ function loadSection1() {
 
     documentItem = document.getElementById("reading-folder");
     documentItem.href = links["Reading folder"];
+
+    documentItem = document.getElementById("pitch-folder");
+    documentItem.href = links["Pitch folder Section 1"];
 }
 
 function loadSection2() {
@@ -189,6 +194,9 @@ function loadSection2() {
 
     documentItem = document.getElementById("current-event-folder");
     documentItem.href = links["Current Event Folder Section 2"];
+
+    documentItem = document.getElementById("pitch-folder");
+    documentItem.href = links["Pitch folder Section 2"];
 
 
 }
