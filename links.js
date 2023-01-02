@@ -33,40 +33,43 @@ var links = {
     "Elevator Pitch Due Date": "",
 
     "Assignment 0 Due Date": "",
-    "Assignment 0 Folder Section 1": "https://drive.google.com/drive/u/0/folders/1vwAb1uuIqa45wMEgY6Se0sEmnU5FNGTv",
-    "Assignment 0 Folder Section 2": "https://drive.google.com/drive/folders/1VjoJIOYTH8x3ziAeLhDY2Hsc3IgeSEPa",
+    "Assignment 0 Folder Section 1": "https://drive.google.com/drive/folders/16q7J-NFMAv8Ek0q6Mb3eeR43xzwVAPIs",
+    "Assignment 0 Folder Section 2": "https://drive.google.com/drive/folders/1it2zTDzZk7OFr8vup9H246Kg7KSRXnfH",
 
     "Company Preso Due Date": "See schedule",
-    "Company Preso Folder Section 1": "https://drive.google.com/drive/u/2/folders/15xS1uPnXV8P1KReRSwx4TG15aytDFiID",
-    "Company Preso Folder Section 2": "http://tinyurl.com/441winter2022section2company",
+    "Company Preso Folder Section 1": "https://drive.google.com/drive/folders/1-ZHI-6OVf09nC9i2uzdV5_Fw2ofHf16O",
+    "Company Preso Folder Section 2": "https://drive.google.com/drive/folders/1aYcl9mq5eUldvwLjhkthwqnT3C28c7bP",
+
+    "Current Event Due Date": "See schedule",
+    "Current Event Folder Section 1": "https://drive.google.com/drive/folders/1SnWksntKAkJzUPtghGVmtn3k8cxIw46c",
+    "Current Event Folder Section 2": "https://drive.google.com/drive/folders/1LOwsTL0vVsxCc077UdjprmYtHnP_3iO5",
 
     "Preso 1 Due Date": "",
-    "Preso 1 Folder Section 1": "https://drive.google.com/drive/u/2/folders/1bsIphLdh-Y6iclhmJQnNS6E7Ig6sSzaR",
-    "Preso 1 Folder Section 2": "https://drive.google.com/drive/folders/1w53p4GgP3DJyZ_xkDtu3HBVVr_SHel_t",
+    "Preso 1 Folder Section 1": "https://drive.google.com/drive/folders/1j2oHVW5-HtusSsaIjriaWC0hzsQ8SESA",
+    "Preso 1 Folder Section 2": "https://drive.google.com/drive/folders/1OGapyKhETGRgoR_q9nCuAPruGAvaYg31",
 
     "Preso 2 Due Date": "",
-    "Preso 2 Folder Section 1": "https://drive.google.com/drive/u/2/folders/1YtzfaMO3OXLYP8ZhCDslji4cjMM-ISOx",
-    "Preso 2 Folder Section 2": "https://drive.google.com/drive/folders/12MQb9wClVARm56R-b2ohnLNRCEk9Wtd_",
+    "Preso 2 Folder Section 1": "https://drive.google.com/drive/folders/1GcQKZiEM7gqrhIm89mqAe5SdLM4QEjgg",
+    "Preso 2 Folder Section 2": "https://drive.google.com/drive/folders/166rrTeGOiNi1F0ZRSum1RRoktg9yp9Lf",
 
     "Preso 3 Due Date": "",
-    "Preso 3 Folder Section 1": "https://drive.google.com/drive/u/2/folders/1nM1kHlH_RDVkqtvipAZZxT4J4jlPxLqB",
-    "Preso 3 Folder Section 2": "https://drive.google.com/drive/folders/1_hvwzZwN9Ed85UEeCzCC54blBST-hieF",
+    "Preso 3 Folder Section 1": "https://drive.google.com/drive/folders/1WHTqm22mwabKqENxjjOtsRBlsNNlSQvm",
+    "Preso 3 Folder Section 2": "https://drive.google.com/drive/folders/1RTIKUXPXPSCo6qG1MKo1ml5RnlsmSrZq",
 
     "Preso 4 Due Date": "",
-    "Preso 4 Folder Section 1": "https://drive.google.com/drive/u/2/folders/1m5DniCmlq9RQwxEDBYEomI2ODLwh5JRn",
-    "Preso 4 Folder Section 2": "https://drive.google.com/drive/folders/1IKnsCFjYUFtfyEOR_F7rYFNMG8zFtYzp",
+    "Preso 4 Folder Section 1": "https://drive.google.com/drive/folders/1QInvTAzu2_NFqsJRu3mCUAZf8heTMLk6",
+    "Preso 4 Folder Section 2": "https://drive.google.com/drive/folders/1SU-ErXwtUGBsNlFn1i_BMp1sZkodv7_r",
 
     "Preso 5 Due Date": "",
-    "Preso 5 Folder Section 1": "https://drive.google.com/drive/u/2/folders/109wx6KO516MqdKal2Wfpj8NgKXADbddb",
-    "Preso 5 Folder Section 2": "https://tinyurl.com/441winter2022sect2Assign5",
+    "Preso 5 Folder Section 1": "https://drive.google.com/drive/folders/1fdmpwgRwpE9UDES1qsrrTQqkQ-mykeNQ",
+    "Preso 5 Folder Section 2": "https://drive.google.com/drive/folders/1wPytNPErQ6YUb6fFYQiNNJwSUQo4uLBw",
 
     "Course Files Section 1": "https://devondoyle.com",
     "Course Files Section 2": "https://devondoyle.com",
 
     "Project Groups Due Date": "",
     "Project Groups": "https://docs.google.com/forms/d/e/1FAIpQLSdEi7eOnqtfoxnOriYfax_B_GwEE29wTi17gK0HR48kCB4aMg/viewform?usp=sf_link",
-
-    "Reading folder": "https://drive.google.com/drive/folders/19RadzAlll_wQ_prG_i7koLSjaIzuXs3j",
+    "Reading folder": "https://drive.google.com/drive/folders/1ydX-RGexrRCjv3xk0R-I0JNpm6R3wqLK",
 }
 
 function loadSection1() {
@@ -122,6 +125,9 @@ function loadSection1() {
 
     documentItem = document.getElementById("company-preso-folder");
     documentItem.href = links["Company Preso Folder Section 1"];
+
+    documentItem = document.getElementById("current-event-folder");
+    documentItem.href = links["Current Event Folder Section 1"];
 
     documentItem = document.getElementById("reading-folder");
     documentItem.href = links["Reading folder"];
@@ -180,6 +186,11 @@ function loadSection2() {
 
     documentItem = document.getElementById("company-preso-folder");
     documentItem.href = links["Company Preso Folder Section 2"];
+
+    documentItem = document.getElementById("current-event-folder");
+    documentItem.href = links["Current Event Folder Section 2"];
+
+
 }
 
 
