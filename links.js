@@ -32,9 +32,9 @@ var links = {
 
     "Pitch folder Section 1": "https://drive.google.com/drive/folders/1gP2NAVFwY6X5-yfkp4hhKoA4QPD6CjVa",
     "Pitch folder Section 2": "https://drive.google.com/drive/folders/1DCG71WO0LpesoCvwPvNSjBjxd_rrXaIS",
-    "Elevator Pitch Due Date": "See schedule",
+    "Elevator Pitch Due Date": "Jan 6, 9, 11th",
 
-    "Assignment 0 Due Date": "See schedule",
+    "Assignment 0 Due Date": "Jan 6th",
     "Assignment 0 Folder Section 1": "https://drive.google.com/drive/folders/16q7J-NFMAv8Ek0q6Mb3eeR43xzwVAPIs",
     "Assignment 0 Folder Section 2": "https://drive.google.com/drive/folders/1it2zTDzZk7OFr8vup9H246Kg7KSRXnfH",
 
