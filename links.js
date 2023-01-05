@@ -74,6 +74,10 @@ var links = {
     "Reading folder": "https://drive.google.com/drive/folders/1ydX-RGexrRCjv3xk0R-I0JNpm6R3wqLK",
 }
 
+/* ====================================
+         PROGRAMMER STUFF BELOW
+   ==================================== */
+
 function loadSection1() {
     loadLinks();
 
