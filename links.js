@@ -263,9 +263,9 @@ function loadLinks() {
 
     // Project groups
     documentItem = document.getElementById("project-groups-forms");
-    // documentItem.href = links["Project Groups"]
+    documentItem.href = links["Project Groups"]
     documentItem = document.getElementById("project-groups-due");
-    // documentItem.textContent = links["Project Groups Due Date"]
+    documentItem.textContent = links["Project Groups Due Date"]
 }
 
 
