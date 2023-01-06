@@ -69,7 +69,7 @@ var links = {
     "Course Files Section 1": "https://devondoyle.com",
     "Course Files Section 2": "https://devondoyle.com",
 
-    "Project Groups Due Date": "See schedule",
+    "Project Groups Due Date": "Jan 11th",
     "Project Groups": "https://docs.google.com/forms/d/e/1FAIpQLSeKduxshrIuDVk9i72WfHFPYuMvAUyXv4xhBkdMw8v2DsLRYA/viewform?usp=sf_link",
     "Reading folder": "https://drive.google.com/drive/folders/1ydX-RGexrRCjv3xk0R-I0JNpm6R3wqLK",
 }
