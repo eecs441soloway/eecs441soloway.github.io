@@ -199,6 +199,9 @@ function loadSection2() {
     documentItem = document.getElementById("current-event-folder");
     documentItem.href = links["Current Event Folder Section 2"];
 
+    documentItem = document.getElementById("reading-folder");
+    documentItem.href = links["Reading folder"];
+
     documentItem = document.getElementById("pitch-folder");
     documentItem.href = links["Pitch folder Section 2"];
 
