@@ -7,8 +7,8 @@ var links = {
     "Absence Form": "https://forms.gle/McsRdqbfG7pvbBsN9",
 
     // Todo still
-    "Class Recordings Section 1": "https://tinyurl.com/441spring2022ClassVideos",
-    "Class Recordings Section 2": "https://tinyurl.com/441winter2022sect2VideoClass",
+    "Class Recordings Section 1": "https://leccap.engin.umich.edu/leccap/site/3f3y35fm599gcm7nb18",
+    "Class Recordings Section 2": "https://leccap.engin.umich.edu/leccap/site/8npvijx96x0u6deff77",
 
     "Piazza Section 1": "https://piazza.com/umich/winter2023/eecs441001",
     "Piazza Section 2": "https://piazza.com/umich/winter2023/eecs441002",
