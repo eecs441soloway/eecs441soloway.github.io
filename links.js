@@ -46,7 +46,7 @@ var links = {
     "Current Event Folder Section 1": "https://drive.google.com/drive/folders/1SnWksntKAkJzUPtghGVmtn3k8cxIw46c",
     "Current Event Folder Section 2": "https://drive.google.com/drive/folders/1LOwsTL0vVsxCc077UdjprmYtHnP_3iO5",
 
-    "Preso 1 Due Date": "See schedule",
+    "Preso 1 Due Date": "Jan 18th",
     "Preso 1 Folder Section 1": "https://drive.google.com/drive/folders/1j2oHVW5-HtusSsaIjriaWC0hzsQ8SESA",
     "Preso 1 Folder Section 2": "https://drive.google.com/drive/folders/1OGapyKhETGRgoR_q9nCuAPruGAvaYg31",
 
