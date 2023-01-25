@@ -50,7 +50,7 @@ var links = {
     "Preso 1 Folder Section 1": "https://drive.google.com/drive/folders/1j2oHVW5-HtusSsaIjriaWC0hzsQ8SESA",
     "Preso 1 Folder Section 2": "https://drive.google.com/drive/folders/1OGapyKhETGRgoR_q9nCuAPruGAvaYg31",
 
-    "Preso 2 Due Date": "See schedule",
+    "Preso 2 Due Date": "Feb 1",
     "Preso 2 Folder Section 1": "https://drive.google.com/drive/folders/1GcQKZiEM7gqrhIm89mqAe5SdLM4QEjgg",
     "Preso 2 Folder Section 2": "https://drive.google.com/drive/folders/166rrTeGOiNi1F0ZRSum1RRoktg9yp9Lf",
 
