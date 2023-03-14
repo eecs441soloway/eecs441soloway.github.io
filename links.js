@@ -50,19 +50,19 @@ var links = {
     "Preso 1 Folder Section 1": "https://drive.google.com/drive/folders/1j2oHVW5-HtusSsaIjriaWC0hzsQ8SESA",
     "Preso 1 Folder Section 2": "https://drive.google.com/drive/folders/1OGapyKhETGRgoR_q9nCuAPruGAvaYg31",
 
-    "Preso 2 Due Date": "Feb 1",
+    "Preso 2 Due Date": "Feb 1st",
     "Preso 2 Folder Section 1": "https://drive.google.com/drive/folders/1GcQKZiEM7gqrhIm89mqAe5SdLM4QEjgg",
     "Preso 2 Folder Section 2": "https://drive.google.com/drive/folders/166rrTeGOiNi1F0ZRSum1RRoktg9yp9Lf",
 
-    "Preso 3 Due Date": "See schedule",
+    "Preso 3 Due Date": "Mar 13th",
     "Preso 3 Folder Section 1": "https://drive.google.com/drive/folders/1WHTqm22mwabKqENxjjOtsRBlsNNlSQvm",
     "Preso 3 Folder Section 2": "https://drive.google.com/drive/folders/1RTIKUXPXPSCo6qG1MKo1ml5RnlsmSrZq",
 
-    "Preso 4 Due Date": "See schedule",
+    "Preso 4 Due Date": "Mar 22nd",
     "Preso 4 Folder Section 1": "https://drive.google.com/drive/folders/1QInvTAzu2_NFqsJRu3mCUAZf8heTMLk6",
     "Preso 4 Folder Section 2": "https://drive.google.com/drive/folders/1SU-ErXwtUGBsNlFn1i_BMp1sZkodv7_r",
 
-    "Preso 5 Due Date": "See schedule",
+    "Preso 5 Due Date": "Apr 14th",
     "Preso 5 Folder Section 1": "https://drive.google.com/drive/folders/1fdmpwgRwpE9UDES1qsrrTQqkQ-mykeNQ",
     "Preso 5 Folder Section 2": "https://drive.google.com/drive/folders/1wPytNPErQ6YUb6fFYQiNNJwSUQo4uLBw",
 
