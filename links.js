@@ -32,9 +32,9 @@ var links = {
 
     "Pitch folder Section 1": "https://drive.google.com/drive/folders/1gP2NAVFwY6X5-yfkp4hhKoA4QPD6CjVa",
     "Pitch folder Section 2": "https://drive.google.com/drive/folders/1DCG71WO0LpesoCvwPvNSjBjxd_rrXaIS",
-    "Elevator Pitch Due Date": "Jan 6, 9, 11th",
+    "Elevator Pitch Due Date": "Aug 30th, Sep 1st, Sep 6th",
 
-    "Assignment 0 Due Date": "Jan 6th",
+    "Assignment 0 Due Date": "Aug 30th",
     "Assignment 0 Folder Section 1": "https://drive.google.com/drive/folders/16q7J-NFMAv8Ek0q6Mb3eeR43xzwVAPIs",
     "Assignment 0 Folder Section 2": "https://drive.google.com/drive/folders/1it2zTDzZk7OFr8vup9H246Kg7KSRXnfH",
 
@@ -46,30 +46,30 @@ var links = {
     "Current Event Folder Section 1": "https://drive.google.com/drive/folders/1SnWksntKAkJzUPtghGVmtn3k8cxIw46c",
     "Current Event Folder Section 2": "https://drive.google.com/drive/folders/1LOwsTL0vVsxCc077UdjprmYtHnP_3iO5",
 
-    "Preso 1 Due Date": "Jan 18th",
+    "Preso 1 Due Date": "Sep 11th",
     "Preso 1 Folder Section 1": "https://drive.google.com/drive/folders/1j2oHVW5-HtusSsaIjriaWC0hzsQ8SESA",
     "Preso 1 Folder Section 2": "https://drive.google.com/drive/folders/1OGapyKhETGRgoR_q9nCuAPruGAvaYg31",
 
-    "Preso 2 Due Date": "Feb 1st",
+    "Preso 2 Due Date": "TBD",
     "Preso 2 Folder Section 1": "https://drive.google.com/drive/folders/1GcQKZiEM7gqrhIm89mqAe5SdLM4QEjgg",
     "Preso 2 Folder Section 2": "https://drive.google.com/drive/folders/166rrTeGOiNi1F0ZRSum1RRoktg9yp9Lf",
 
-    "Preso 3 Due Date": "Mar 13th",
+    "Preso 3 Due Date": "TBD",
     "Preso 3 Folder Section 1": "https://drive.google.com/drive/folders/1WHTqm22mwabKqENxjjOtsRBlsNNlSQvm",
     "Preso 3 Folder Section 2": "https://drive.google.com/drive/folders/1RTIKUXPXPSCo6qG1MKo1ml5RnlsmSrZq",
 
-    "Preso 4 Due Date": "Mar 22nd",
+    "Preso 4 Due Date": "TBD",
     "Preso 4 Folder Section 1": "https://drive.google.com/drive/folders/1QInvTAzu2_NFqsJRu3mCUAZf8heTMLk6",
     "Preso 4 Folder Section 2": "https://drive.google.com/drive/folders/1SU-ErXwtUGBsNlFn1i_BMp1sZkodv7_r",
 
-    "Preso 5 Due Date": "Apr 17th",
+    "Preso 5 Due Date": "TBD",
     "Preso 5 Folder Section 1": "https://drive.google.com/drive/folders/1fdmpwgRwpE9UDES1qsrrTQqkQ-mykeNQ",
     "Preso 5 Folder Section 2": "https://drive.google.com/drive/folders/1wPytNPErQ6YUb6fFYQiNNJwSUQo4uLBw",
 
     "Course Files Section 1": "https://devondoyle.com",
     "Course Files Section 2": "https://devondoyle.com",
 
-    "Project Groups Due Date": "Jan 11th",
+    "Project Groups Due Date": "TBD",
     "Project Groups": "https://docs.google.com/forms/d/e/1FAIpQLSeKduxshrIuDVk9i72WfHFPYuMvAUyXv4xhBkdMw8v2DsLRYA/viewform?usp=sf_link",
     "Reading folder": "https://drive.google.com/drive/folders/1ydX-RGexrRCjv3xk0R-I0JNpm6R3wqLK",
 }
@@ -85,7 +85,7 @@ function loadSection1() {
     documentItem.innerText = "EECS 441 Section 1";
     documentItem = document.getElementById("section-title");
     documentItem.innerText = "Section 1";
-    documentItem.href = "441WN23_Section2.html";
+    documentItem.href = "441F23_Section2.html";
 
     documentItem = document.getElementById("participation-sheet");
     documentItem.href = links["Participation Sheet Section 1"];
@@ -149,7 +149,7 @@ function loadSection2() {
     documentItem.innerText = "EECS 441 Section 2";
     documentItem = document.getElementById("section-title");
     documentItem.innerText = "Section 2";
-    documentItem.href = "441WN23_Section1.html";
+    documentItem.href = "441F23_Section1.html";
 
     documentItem = document.getElementById("participation-sheet");
     documentItem.href = links["Participation Sheet Section 2"];
