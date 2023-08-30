@@ -23,12 +23,12 @@ var links = {
     "IA Only Folder": "https://drive.google.com/drive/folders/1OlYQhlxpFVrLPerZJn4TQ9VbgwedtlfQ",
 
 
-    "Project Preso Evaluation Section 1": "https://docs.google.com/forms/d/e/1FAIpQLSdCINmr2GGwtuHTZRpIZZ7lzINtj9WMY7v7U2EM_EUsGMtWOw/viewform?usp=sf_link",
-    "Project Preso Evaluation Section 2": "https://docs.google.com/forms/d/e/1FAIpQLSfKAAdODk2sWAkKwSQM_UofC10IG580xDJD1txn9nCU2E_uBw/viewform?usp=sf_link",
-    "Company Preso Evaluation Section 1": "https://docs.google.com/forms/d/e/1FAIpQLSe60QEcYe234W3Vxz1ORJsyVJuuk2rd-lNHlp7g5t4os8yRsQ/viewform?usp=sf_link",
-    "Company Preso Evaluation Section 2": "https://docs.google.com/forms/d/e/1FAIpQLSfhZi1VDp-FJbYOX5AjO43ejFe3pmF36vl9VhOYbbFBLMI_rw/viewform?usp=sf_link",
-    "Team Evaluation Section 1": "https://docs.google.com/forms/d/e/1FAIpQLScM6wwBwufLgvMpfxxMGXg2eJcwmxpVZs1nuql25Tj_WGooug/viewform?usp=sf_link",
-    "Team Evaluation Section 2": "https://docs.google.com/forms/d/e/1FAIpQLSe4skIT6e1q1kZkpIhO_vWctOw9_ojLpwOelNSC4WJ1YC8KQw/viewform?usp=sf_link",
+    "Project Preso Evaluation Section 1": "",
+    "Project Preso Evaluation Section 2": "",
+    "Company Preso Evaluation Section 1": "",
+    "Company Preso Evaluation Section 2": "",
+    "Team Evaluation Section 1": "",
+    "Team Evaluation Section 2": "",
 
     "Pitch folder Section 1": "https://drive.google.com/drive/folders/1reBeEcRWiVt2Cd3DbjNjaWlMTBltDcJD?usp=drive_link",
     "Pitch folder Section 2": "https://drive.google.com/drive/folders/162XOCOWztgXJfLD0-s1Y8uda1yMzw5Pi?usp=drive_link",
