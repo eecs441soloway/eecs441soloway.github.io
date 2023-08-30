@@ -1,10 +1,10 @@
 var links = {
     "Syllabus": "https://drive.google.com/drive/folders/1J8m-k2gqTlKKmb0FoX5c3ezIXdO1y3ye?usp=drive_link",
 
-    "Participation Sheet Section 1": "",
-    "Participation Sheet Section 2": "",
+    "Participation Sheet Section 1": "https://docs.google.com/spreadsheets/d/1tqln2dNB4M8WAhcDVAFgbHz5AzMtfBmgr1bEX0fQA0g/edit?usp=drive_link",
+    "Participation Sheet Section 2": "https://docs.google.com/spreadsheets/d/1GTwvF7weOhTO8TKatV_aLrUAkhmLGGabM5p7DWZpxpQ/edit?usp=drive_link",
 
-    "Absence Form": "https://forms.gle/McsRdqbfG7pvbBsN9",
+    "Absence Form": "https://docs.google.com/forms/d/e/1FAIpQLSdGioh3BPmCp4F2TRHjYJiutPstZgXPdynfl7qITsFViCfbMw/viewform?usp=sf_link",
 
     // Todo still
     "Class Recordings Section 1": "",
@@ -66,8 +66,9 @@ var links = {
     "Preso 5 Folder Section 1": "",
     "Preso 5 Folder Section 2": "",
 
-    "Project Groups Due Date": "TBD",
-    "Project Groups": "",
+    "Project Groups Due Date": "Sep 6th (in class)",
+    "Project Groups Form Section 1": "https://docs.google.com/forms/d/e/1FAIpQLSf9WL5OYhLBNo69CC9WxF3QaT7l4MRbbsd7iDQJ52R6gE8hLw/viewform?usp=sf_link",
+    "Project Groups Form Section 2": "https://docs.google.com/forms/d/e/1FAIpQLSfMplgXfXq-YM31m-nPfJdyIi7hru14hVxvsJ9MKP7Mb3W3lA/viewform?usp=sf_link",
     "Reading folder": "https://drive.google.com/drive/folders/1ydX-RGexrRCjv3xk0R-I0JNpm6R3wqLK",
 }
 
@@ -134,6 +135,9 @@ function loadSection1() {
 
     documentItem = document.getElementById("pitch-folder");
     documentItem.href = links["Pitch folder Section 1"];
+
+    documentItem = document.getElementById("project-groups-forms");
+    documentItem.href = links["Project Groups Form Section 1"]
 }
 
 function loadSection2() {
@@ -196,6 +200,9 @@ function loadSection2() {
     documentItem = document.getElementById("pitch-folder");
     documentItem.href = links["Pitch folder Section 2"];
 
+    documentItem = document.getElementById("project-groups-forms");
+    documentItem.href = links["Project Groups Form Section 2"]
+
 
 }
 
@@ -256,8 +263,6 @@ function loadLinks() {
     documentItem.textContent = links["Preso 5 Due Date"];
 
     // Project groups
-    documentItem = document.getElementById("project-groups-forms");
-    documentItem.href = links["Project Groups"]
     documentItem = document.getElementById("project-groups-due");
     documentItem.textContent = links["Project Groups Due Date"]
 }
