@@ -39,32 +39,32 @@ var links = {
     "Assignment 0 Folder Section 2": "https://drive.google.com/drive/folders/10X9TiJTA0T771exL3s7PbxzXWsdl9BsM?usp=drive_link",
 
     "Company Preso Due Date": "See schedule",
-    "Company Preso Folder Section 1": "",
-    "Company Preso Folder Section 2": "",
+    "Company Preso Folder Section 1": "https://drive.google.com/drive/folders/1CF4PrylDyGh7R2-vHsIgxV6rs2zNMNPf?usp=drive_link",
+    "Company Preso Folder Section 2": "https://drive.google.com/drive/folders/1PsGeFeTml0GMNp6r22-K0whKSFl0nx0f?usp=drive_link",
 
     "Current Event Due Date": "See schedule",
     "Current Event Folder Section 1": "",
     "Current Event Folder Section 2": "",
 
     "Preso 1 Due Date": "Sep 11th",
-    "Preso 1 Folder Section 1": "",
-    "Preso 1 Folder Section 2": "",
+    "Preso 1 Folder Section 1": "https://drive.google.com/drive/folders/1E30QgTRxEJ9tboyziJjR3yM-rtjiKFeH?usp=drive_link",
+    "Preso 1 Folder Section 2": "https://drive.google.com/drive/folders/1O0KFvNd0ouNGTJkD_xgX0qzL5DP-BYbB?usp=drive_link",
 
-    "Preso 2 Due Date": "TBD",
-    "Preso 2 Folder Section 1": "",
-    "Preso 2 Folder Section 2": "",
+    "Preso 2 Due Date": "Sep 26th",
+    "Preso 2 Folder Section 1": "https://drive.google.com/drive/folders/1fJkQdvScw_Jpd0vGDoileX7oL6u8X5Wf?usp=drive_link",
+    "Preso 2 Folder Section 2": "https://drive.google.com/drive/folders/150kGnVXwgNFtvUdhUubTtF2ico9vlwHF?usp=drive_link",
 
     "Preso 3 Due Date": "TBD",
-    "Preso 3 Folder Section 1": "",
-    "Preso 3 Folder Section 2": "",
+    "Preso 3 Folder Section 1": "https://drive.google.com/drive/folders/1GDKgLbvtkY1SvzE1A5R6MQt_cO0aeW62?usp=drive_link",
+    "Preso 3 Folder Section 2": "https://drive.google.com/drive/folders/1VV-AEhHhrqCdb__wLHmkH_WfW21qBB4d?usp=drive_link",
 
     "Preso 4 Due Date": "TBD",
-    "Preso 4 Folder Section 1": "",
-    "Preso 4 Folder Section 2": "",
+    "Preso 4 Folder Section 1": "https://drive.google.com/drive/folders/1FPmq5oNRwP_ZiP0vJ7LoLKHUn0dYHFRy?usp=drive_link",
+    "Preso 4 Folder Section 2": "https://drive.google.com/drive/folders/1XGCWx0VBgGvBQnpqT7ZZFYzZKMQAHleC?usp=drive_link",
 
     "Preso 5 Due Date": "TBD",
-    "Preso 5 Folder Section 1": "",
-    "Preso 5 Folder Section 2": "",
+    "Preso 5 Folder Section 1": "https://drive.google.com/drive/folders/1azUuEyeIrlj1fPmimsj4vw4cbnEdkSpT?usp=drive_link",
+    "Preso 5 Folder Section 2": "https://drive.google.com/drive/folders/1VQa6R8ym1iKyFRQiX4fmaLC8p6qmy6yS?usp=drive_link",
 
     "Project Groups Due Date": "Sep 6th (in class)",
     "Project Groups Form Section 1": "https://docs.google.com/forms/d/e/1FAIpQLSf9WL5OYhLBNo69CC9WxF3QaT7l4MRbbsd7iDQJ52R6gE8hLw/viewform?usp=sf_link",
