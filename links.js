@@ -23,8 +23,8 @@ var links = {
     "IA Only Folder": "https://drive.google.com/drive/folders/1OlYQhlxpFVrLPerZJn4TQ9VbgwedtlfQ",
 
 
-    "Project Preso Evaluation Section 1": "",
-    "Project Preso Evaluation Section 2": "",
+    "Project Preso Evaluation Section 1": "https://docs.google.com/forms/d/e/1FAIpQLSdIVPCfAk6AEdTNmCHl2-g-Y4l4R9mPqfqoPytAX70j9JGMYw/viewform?usp=sf_link",
+    "Project Preso Evaluation Section 2": "https://docs.google.com/forms/d/e/1FAIpQLSdOfF0EKpbi1rh4oTqRdYzUTpSk-ULlOvLSBdQC7AHYXAaMwA/viewform?usp=sf_link",
     "Company Preso Evaluation Section 1": "",
     "Company Preso Evaluation Section 2": "",
     "Team Evaluation Section 1": "",
