@@ -54,7 +54,7 @@ var links = {
     "Preso 2 Folder Section 1": "https://drive.google.com/drive/folders/1fJkQdvScw_Jpd0vGDoileX7oL6u8X5Wf?usp=drive_link",
     "Preso 2 Folder Section 2": "https://drive.google.com/drive/folders/150kGnVXwgNFtvUdhUubTtF2ico9vlwHF?usp=drive_link",
 
-    "Preso 3 Due Date": "TBD",
+    "Preso 3 Due Date": "Nov 3rd",
     "Preso 3 Folder Section 1": "https://drive.google.com/drive/folders/1GDKgLbvtkY1SvzE1A5R6MQt_cO0aeW62?usp=drive_link",
     "Preso 3 Folder Section 2": "https://drive.google.com/drive/folders/1VV-AEhHhrqCdb__wLHmkH_WfW21qBB4d?usp=drive_link",
 
