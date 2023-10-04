@@ -7,8 +7,8 @@ var links = {
     "Absence Form": "https://docs.google.com/forms/d/e/1FAIpQLSdGioh3BPmCp4F2TRHjYJiutPstZgXPdynfl7qITsFViCfbMw/viewform?usp=sf_link",
 
     // Todo still
-    "Class Recordings Section 1": "",
-    "Class Recordings Section 2": "",
+    "Class Recordings Section 1": "https://leccap.engin.umich.edu/leccap/site/811n9dqomxmwstz2pw0",
+    "Class Recordings Section 2": "https://leccap.engin.umich.edu/leccap/site/pkwk0fczd0271jai320",
 
     "Piazza Section 1": "",
     "Piazza Section 2": "",
