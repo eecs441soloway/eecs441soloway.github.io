@@ -25,8 +25,8 @@ var links = {
 
     "Project Preso Evaluation Section 1": "https://docs.google.com/forms/d/e/1FAIpQLSdIVPCfAk6AEdTNmCHl2-g-Y4l4R9mPqfqoPytAX70j9JGMYw/viewform?usp=sf_link",
     "Project Preso Evaluation Section 2": "https://docs.google.com/forms/d/e/1FAIpQLSdOfF0EKpbi1rh4oTqRdYzUTpSk-ULlOvLSBdQC7AHYXAaMwA/viewform?usp=sf_link",
-    "Company Preso Evaluation Section 1": "",
-    "Company Preso Evaluation Section 2": "",
+    "Company Preso Evaluation Section 1": "https://forms.gle/heFhTpsDviodiz23A",
+    "Company Preso Evaluation Section 2": "https://forms.gle/TCV586GXhDVXiTgb8",
     "Team Evaluation Section 1": "",
     "Team Evaluation Section 2": "",
 
