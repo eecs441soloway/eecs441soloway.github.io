@@ -27,8 +27,8 @@ var links = {
     "Project Preso Evaluation Section 2": "https://docs.google.com/forms/d/e/1FAIpQLSdOfF0EKpbi1rh4oTqRdYzUTpSk-ULlOvLSBdQC7AHYXAaMwA/viewform?usp=sf_link",
     "Company Preso Evaluation Section 1": "https://forms.gle/heFhTpsDviodiz23A",
     "Company Preso Evaluation Section 2": "https://forms.gle/TCV586GXhDVXiTgb8",
-    "Team Evaluation Section 1": "",
-    "Team Evaluation Section 2": "",
+    "Team Evaluation Section 1": "https://forms.gle/n8N4KQjCZb7xmXdt9",
+    "Team Evaluation Section 2": "https://forms.gle/gzDRaQUU14Y4h1Xz9",
 
     "Pitch folder Section 1": "https://drive.google.com/drive/folders/1reBeEcRWiVt2Cd3DbjNjaWlMTBltDcJD?usp=drive_link",
     "Pitch folder Section 2": "https://drive.google.com/drive/folders/162XOCOWztgXJfLD0-s1Y8uda1yMzw5Pi?usp=drive_link",
@@ -58,11 +58,11 @@ var links = {
     "Preso 3 Folder Section 1": "https://drive.google.com/drive/folders/1GDKgLbvtkY1SvzE1A5R6MQt_cO0aeW62?usp=drive_link",
     "Preso 3 Folder Section 2": "https://drive.google.com/drive/folders/1VV-AEhHhrqCdb__wLHmkH_WfW21qBB4d?usp=drive_link",
 
-    "Preso 4 Due Date": "TBD",
+    "Preso 4 Due Date": "Nov 10th",
     "Preso 4 Folder Section 1": "https://drive.google.com/drive/folders/1FPmq5oNRwP_ZiP0vJ7LoLKHUn0dYHFRy?usp=drive_link",
     "Preso 4 Folder Section 2": "https://drive.google.com/drive/folders/1XGCWx0VBgGvBQnpqT7ZZFYzZKMQAHleC?usp=drive_link",
 
-    "Preso 5 Due Date": "TBD",
+    "Preso 5 Due Date": "Dec 1st, Dec 4th",
     "Preso 5 Folder Section 1": "https://drive.google.com/drive/folders/1azUuEyeIrlj1fPmimsj4vw4cbnEdkSpT?usp=drive_link",
     "Preso 5 Folder Section 2": "https://drive.google.com/drive/folders/1VQa6R8ym1iKyFRQiX4fmaLC8p6qmy6yS?usp=drive_link",
 
