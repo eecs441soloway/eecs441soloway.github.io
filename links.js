@@ -62,7 +62,7 @@ var links = {
     "Preso 4 Folder Section 1": "https://drive.google.com/drive/folders/1FPmq5oNRwP_ZiP0vJ7LoLKHUn0dYHFRy?usp=drive_link",
     "Preso 4 Folder Section 2": "https://drive.google.com/drive/folders/1XGCWx0VBgGvBQnpqT7ZZFYzZKMQAHleC?usp=drive_link",
 
-    "Preso 5 Due Date": "Dec 1st, Dec 4th",
+    "Preso 5 Due Date": "Dec 4th",
     "Preso 5 Folder Section 1": "https://drive.google.com/drive/folders/1azUuEyeIrlj1fPmimsj4vw4cbnEdkSpT?usp=drive_link",
     "Preso 5 Folder Section 2": "https://drive.google.com/drive/folders/1VQa6R8ym1iKyFRQiX4fmaLC8p6qmy6yS?usp=drive_link",
 
