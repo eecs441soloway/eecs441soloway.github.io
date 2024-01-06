@@ -72,10 +72,6 @@ function loadSection1() {
     documentItem = document.getElementById("participation-sheet");
     documentItem.href = links["Participation Sheet Section 1"];
 
-    documentItem = document.getElementById("recordings");
-    documentItem.href = links["Class Recordings Section 1"];
-
-
     documentItem = document.getElementById("grades");
     documentItem.href = links["Grades Sheet Section 1"];
 
@@ -131,9 +127,6 @@ function loadSection2() {
     documentItem = document.getElementById("participation-sheet");
     documentItem.href = links["Participation Sheet Section 2"];
 
-    documentItem = document.getElementById("recordings");
-    documentItem.href = links["Class Recordings Section 2"];
-
     documentItem = document.getElementById("grades");
     documentItem.href = links["Grades Sheet Section 2"];
 
@@ -186,9 +179,6 @@ function loadLinks() {
 
     documentItem = document.getElementById("absence-form");
     documentItem.href = links["Absence Form"];
-
-    documentItem = document.getElementById("preso-ex-1");
-    documentItem.href = links["Preso Example 1"];
 
 
     documentItem = document.getElementById("past-work");
