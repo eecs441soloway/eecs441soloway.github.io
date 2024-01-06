@@ -4,6 +4,16 @@ var links = {
     "Past Student Work": "https://drive.google.com/drive/folders/1szxdbP8n2eZhyC-mczMpex5Fn9ve8ddm",
     "Reading folder": "https://drive.google.com/drive/u/0/folders/1yNKOU3T1qnwK8KdSGLmdvkkQcYtAl1Ym",
 
+    "Participation Sheet Section 1": "",
+    "Participation Sheet Section 2": "",
+    "Grades Sheet Section 1": "",
+    "Grades Sheet Section 2": "",
+    "Project Preso Evaluation Section 1": "",
+    "Project Preso Evaluation Section 2": "",
+    "Company Preso Evaluation Section 1": "",
+    "Company Preso Evaluation Section 2": "",
+    "Team Evaluation Section 1": "",
+    "Team Evaluation Section 2": "",
     // "Participation Sheet Section 1": "https://docs.google.com/spreadsheets/d/1W9YS4xe6pR176bvEnMIJWNlz1kOaoAZk/edit?usp=drive_link&ouid=104792800713878667139&rtpof=true&sd=true",
     // "Participation Sheet Section 2": "https://docs.google.com/spreadsheets/d/11pGDfpp1NSZ2P3jTp-7J_3rxOcG9yktq/edit?usp=drive_link&ouid=104792800713878667139&rtpof=true&sd=true",
 
