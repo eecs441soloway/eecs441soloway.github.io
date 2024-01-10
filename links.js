@@ -29,11 +29,11 @@ var links = {
     // "Team Evaluation Section 1": "https://docs.google.com/forms/d/e/1FAIpQLSfzZCZVuElDxeDmZlXIkkORv-h90hgIlZObgBAl9EAiOpOWvw/viewform?usp=sf_link",
     // "Team Evaluation Section 2": "https://docs.google.com/forms/d/e/1FAIpQLSdh_13z3c-uGfll4bv-CGydLzCDv6awFB_q8UXbZQhk2fp25Q/viewform?usp=sf_link",
 
-    "Elevator Pitch Due Date": "TBD",
+    "Elevator Pitch Due Date": "Jan 12, 17, 19",
     "Pitch folder Section 1": "https://drive.google.com/drive/u/0/folders/1HABdSB7SA4JAROy4L_IbXTJNDf7kIdcy",
     "Pitch folder Section 2": "https://drive.google.com/drive/u/0/folders/1_KNULb4e6yMIWNfxVyjX4zkgIhvQVDGk",
 
-    "Assignment 0 Due Date": "TBD",
+    "Assignment 0 Due Date": "Jan 12",
     "Assignment 0 Folder Section 1": "https://drive.google.com/drive/u/0/folders/1YD9CXrlRjP-4nJrAw9zSyZG09oZknVVw",
     "Assignment 0 Folder Section 2": "https://drive.google.com/drive/u/0/folders/1pOKVH4UNkHkxU-vVAjwWj6cH675blA05",
 
