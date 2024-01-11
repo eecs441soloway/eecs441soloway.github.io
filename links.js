@@ -3,6 +3,8 @@ var links = {
     "Absence Form": "https://docs.google.com/forms/d/e/1FAIpQLSdGVAekAYsKszGxwGO0aE_Fm7dYqsRjTI49zxTQ0xE8C3b1-Q/viewform?usp=sf_link",
     "Past Student Work": "https://drive.google.com/drive/folders/1szxdbP8n2eZhyC-mczMpex5Fn9ve8ddm",
     "Reading folder": "https://drive.google.com/drive/u/0/folders/1yNKOU3T1qnwK8KdSGLmdvkkQcYtAl1Ym",
+    "Section 1 Recordings" : "http://tinyurl.com/441winter2024s1ViewVideos",
+    "Section 2 Recordings" : "http://tinyurl.com/441winter2024sect2ViewVideos",
 
     "Participation Sheet Section 1": "",
     "Participation Sheet Section 2": "",
@@ -85,6 +87,9 @@ function loadSection1() {
     documentItem = document.getElementById("grades");
     documentItem.href = links["Grades Sheet Section 1"];
 
+    documentItem = document.getElementById("recordings");
+    documentItem.href = links["Section 1 Recordings"];
+
     documentItem = document.getElementById("project-eval");
     documentItem.href = links["Project Preso Evaluation Section 1"];
 
@@ -139,6 +144,9 @@ function loadSection2() {
 
     documentItem = document.getElementById("grades");
     documentItem.href = links["Grades Sheet Section 2"];
+
+    documentItem = document.getElementById("recordings");
+    documentItem.href = links["Section 2 Recordings"];
 
     documentItem = document.getElementById("project-eval");
     documentItem.href = links["Project Preso Evaluation Section 2"];
