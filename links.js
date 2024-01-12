@@ -31,11 +31,11 @@ var links = {
     // "Team Evaluation Section 1": "https://docs.google.com/forms/d/e/1FAIpQLSfzZCZVuElDxeDmZlXIkkORv-h90hgIlZObgBAl9EAiOpOWvw/viewform?usp=sf_link",
     // "Team Evaluation Section 2": "https://docs.google.com/forms/d/e/1FAIpQLSdh_13z3c-uGfll4bv-CGydLzCDv6awFB_q8UXbZQhk2fp25Q/viewform?usp=sf_link",
 
-    "Elevator Pitch Due Date": "Jan 12, 17, 19",
+    "Elevator Pitch Due Date": "Jan 17, 19, 22",
     "Pitch folder Section 1": "https://drive.google.com/drive/u/0/folders/1HABdSB7SA4JAROy4L_IbXTJNDf7kIdcy",
     "Pitch folder Section 2": "https://drive.google.com/drive/u/0/folders/1_KNULb4e6yMIWNfxVyjX4zkgIhvQVDGk",
 
-    "Assignment 0 Due Date": "Jan 12",
+    "Assignment 0 Due Date": "Jan 17",
     "Assignment 0 Folder Section 1": "https://drive.google.com/drive/u/0/folders/1YD9CXrlRjP-4nJrAw9zSyZG09oZknVVw",
     "Assignment 0 Folder Section 2": "https://drive.google.com/drive/u/0/folders/1pOKVH4UNkHkxU-vVAjwWj6cH675blA05",
 
@@ -43,7 +43,7 @@ var links = {
     "Company Preso Folder Section 1": "https://drive.google.com/drive/u/0/folders/1RvbtrR4sZiVU8SaUXY9AXNCDlo4bopxe",
     "Company Preso Folder Section 2": "https://drive.google.com/drive/u/0/folders/1m9bqMiiahyRdQe1o7Yuc3-RDvmA0mcD6",
 
-    "Preso 1 Due Date": "TBD",
+    "Preso 1 Due Date": "Jan 27",
     "Preso 1 Folder Section 1": "https://drive.google.com/drive/u/0/folders/1INQTg-aUBW-kfFX2KO6BDl3KMOv1i5CU",
     "Preso 1 Folder Section 2": "https://drive.google.com/drive/u/0/folders/1swdc9d6xPDJs_1sPYZ8hJlPAcLARpvDe",
 
