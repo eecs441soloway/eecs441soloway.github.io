@@ -6,8 +6,8 @@ var links = {
     "Section 1 Recordings" : "http://tinyurl.com/441winter2024s1ViewVideos",
     "Section 2 Recordings" : "http://tinyurl.com/441winter2024sect2ViewVideos",
 
-    "Participation Sheet Section 1": "",
-    "Participation Sheet Section 2": "",
+    "Participation Sheet Section 1": "https://docs.google.com/spreadsheets/d/1W9YS4xe6pR176bvEnMIJWNlz1kOaoAZk",
+    "Participation Sheet Section 2": "https://docs.google.com/spreadsheets/d/11pGDfpp1NSZ2P3jTp-7J_3rxOcG9yktq",
     "Grades Sheet Section 1": "",
     "Grades Sheet Section 2": "",
     "Project Preso Evaluation Section 1": "",
