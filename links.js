@@ -8,8 +8,8 @@ var links = {
 
     "Participation Sheet Section 1": "https://docs.google.com/spreadsheets/d/1W9YS4xe6pR176bvEnMIJWNlz1kOaoAZk",
     "Participation Sheet Section 2": "https://docs.google.com/spreadsheets/d/11pGDfpp1NSZ2P3jTp-7J_3rxOcG9yktq",
-    "Grades Sheet Section 1": "",
-    "Grades Sheet Section 2": "",
+    "Grades Sheet Section 1": "https://docs.google.com/spreadsheets/d/1UOWSYlN9mS4gJMDGQ19JzQnyCLPA-Vs-FGe7jYh_Gao/edit?usp=sharing",
+    "Grades Sheet Section 2": "https://docs.google.com/spreadsheets/d/1sT9R4zI1TtKzW_ufG7Uy4MHO5YVNZFI7yha09bC05zY/edit?usp=sharing",
     "Project Preso Evaluation Section 1": "https://forms.gle/git5ytXLFg2ojY5dA",
     "Project Preso Evaluation Section 2": "https://forms.gle/AXm3guowuiq544yB7",
     "Company Preso Evaluation Section 1": "https://forms.gle/UWCFGWCb6NhbcQmUA",
