@@ -3,6 +3,7 @@ var links = {
     "Absence Form": "https://docs.google.com/forms/d/e/1FAIpQLSdGVAekAYsKszGxwGO0aE_Fm7dYqsRjTI49zxTQ0xE8C3b1-Q/viewform?usp=sf_link",
     "Past Student Work": "https://drive.google.com/drive/folders/1szxdbP8n2eZhyC-mczMpex5Fn9ve8ddm",
     "Reading folder": "https://drive.google.com/drive/u/0/folders/1yNKOU3T1qnwK8KdSGLmdvkkQcYtAl1Ym",
+    "Guest Speaker folder": "https://drive.google.com/drive/folders/1I-xEdaqgil6KK8IV2E701fxMJzOWcC7r",
     "Section 1 Recordings" : "http://tinyurl.com/441winter2024s1ViewVideos",
     "Section 2 Recordings" : "http://tinyurl.com/441winter2024sect2ViewVideos",
 
@@ -51,7 +52,7 @@ var links = {
     "Preso 2 Folder Section 1": "https://drive.google.com/drive/u/0/folders/1s6H97ykB4jX21cmO3aYLq9vCsveRCAio",
     "Preso 2 Folder Section 2": "https://drive.google.com/drive/u/0/folders/1CrDgt4VBmLW9HVeqCyoYaInJKDovVqtW",
 
-    "Preso 3 Due Date": "TBD",
+    "Preso 3 Due Date": "Mar 18",
     "Preso 3 Folder Section 1": "https://drive.google.com/drive/u/0/folders/1Nz7doNqiUkqnKoSbM5CdRo1TrR0jjY6r",
     "Preso 3 Folder Section 2": "https://drive.google.com/drive/u/0/folders/1RPOiLUGnNdNBZHK59z5J5TR1GG6k_jY1",
 
@@ -122,6 +123,9 @@ function loadSection1() {
 
     documentItem = document.getElementById("reading-folder");
     documentItem.href = links["Reading folder"];
+    
+    documentItem = document.getElementById("guest-folder");
+    documentItem.href = links["Guest Speaker folder"];
 
     documentItem = document.getElementById("pitch-folder");
     documentItem.href = links["Pitch folder Section 1"];
