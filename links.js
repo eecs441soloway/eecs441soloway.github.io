@@ -185,6 +185,9 @@ function loadSection2() {
     documentItem = document.getElementById("reading-folder");
     documentItem.href = links["Reading folder"];
 
+    documentItem = document.getElementById("guest-folder");
+    documentItem.href = links["Guest Speaker folder"];
+
     documentItem = document.getElementById("pitch-folder");
     documentItem.href = links["Pitch folder Section 2"];
 
