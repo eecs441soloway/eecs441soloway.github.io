@@ -56,15 +56,15 @@ var links = {
     "Preso 3 Folder Section 1": "https://drive.google.com/drive/u/0/folders/1Nz7doNqiUkqnKoSbM5CdRo1TrR0jjY6r",
     "Preso 3 Folder Section 2": "https://drive.google.com/drive/u/0/folders/1RPOiLUGnNdNBZHK59z5J5TR1GG6k_jY1",
 
-    "Preso 4 Due Date": "TBD",
+    "Preso 4 Due Date": "Mar 27",
     "Preso 4 Folder Section 1": "https://drive.google.com/drive/u/0/folders/1EnThharzXOK6tmcFBcSac_1Q7yDfbp8H",
     "Preso 4 Folder Section 2": "https://drive.google.com/drive/u/0/folders/1GXViVhN0Jluv_12pYpl1yIfxsDtAXfLr",
 
-    "Preso 5 Due Date": "TBD",
+    "Preso 5 Due Date": "Apr 22",
     "Preso 5 Folder Section 1": "https://drive.google.com/drive/u/0/folders/1fY8_kY8UVfvR53_M1WoaYLIs5EkStg4x",
     "Preso 5 Folder Section 2": "https://drive.google.com/drive/u/0/folders/151WQIzR1hNeR1RAl4icgD_1tUocSb5g5",
 
-    "Project Groups Due Date": "TBD (in class)",
+    "Project Groups Due Date": "class time",
     "Project Groups Form Section 1": "https://docs.google.com/forms/d/e/1FAIpQLSe1sy1slO-6lzBhEyH_EYBaQ6FQDDGcYnvn1z0m43gPsVqnPQ/viewform?usp=sf_link",
     "Project Groups Form Section 2": "https://docs.google.com/forms/d/e/1FAIpQLSf760mTpP-HhZ7pwCYq_wrQtVW6yezUHOuj8AKe1Jc-b5fQLg/viewform?usp=sf_link",
 }
