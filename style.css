@@ -21,8 +21,8 @@ h1 {
 
 .disabled {
     pointer-events: none;
-    color: grey; /* Change this to your preferred color */
-    cursor: not-allowed; /* Change cursor to indicate it's not clickable */
+    color: grey; 
+    cursor: not-allowed; 
 }
 
 
