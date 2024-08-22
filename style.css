@@ -18,6 +18,14 @@ h1 {
     border-top: 1px solid lightgray;
 }
 
+
+.disabled {
+    pointer-events: none;
+    color: grey; /* Change this to your preferred color */
+    cursor: not-allowed; /* Change cursor to indicate it's not clickable */
+}
+
+
 /* Mobile 
 @media screen and (min-width:0px) {
     body {

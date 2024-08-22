@@ -1,72 +1,94 @@
 var links = {
-    "Syllabus": "https://drive.google.com/drive/folders/1tRZzCBrUNb9len1MfPdSczFEJKAd_rMP?usp=drive_link",
-    "Absence Form": "https://docs.google.com/forms/d/e/1FAIpQLSdGVAekAYsKszGxwGO0aE_Fm7dYqsRjTI49zxTQ0xE8C3b1-Q/viewform?usp=sf_link",
-    "Past Student Work": "https://drive.google.com/drive/folders/1szxdbP8n2eZhyC-mczMpex5Fn9ve8ddm",
-    "Reading folder": "https://drive.google.com/drive/u/0/folders/1yNKOU3T1qnwK8KdSGLmdvkkQcYtAl1Ym",
-    "Guest Speaker folder": "https://drive.google.com/drive/folders/1I-xEdaqgil6KK8IV2E701fxMJzOWcC7r",
-    "Section 1 Recordings" : "http://tinyurl.com/441winter2024s1ViewVideos",
-    "Section 2 Recordings" : "http://tinyurl.com/441winter2024sect2ViewVideos",
+    "Syllabus": "https://drive.google.com/drive/u/0/folders/1B3SsYJjyR7NAaGBIiY94nsV6n69Vf3Be",
+    
+    /**
+     * EECS 441 Master Folder >
+     * EECS 441 GSI ONLY >
+     * EECS 441 - CURRENT TERM >
+     * Request Absence Form
+     */
+    "Absence Form": "https://docs.google.com/forms/d/e/1FAIpQLSdgY_T2Gt04ToVcAjOHkDAcRX7BlQIak5CkDc60raRi3FuESw/viewform?usp=sf_link",
 
-    "Participation Sheet Section 1": "https://docs.google.com/spreadsheets/d/1W9YS4xe6pR176bvEnMIJWNlz1kOaoAZk",
-    "Participation Sheet Section 2": "https://docs.google.com/spreadsheets/d/11pGDfpp1NSZ2P3jTp-7J_3rxOcG9yktq",
-    "Grades Sheet Section 1": "https://docs.google.com/spreadsheets/d/1UOWSYlN9mS4gJMDGQ19JzQnyCLPA-Vs-FGe7jYh_Gao/edit?usp=sharing",
-    "Grades Sheet Section 2": "https://docs.google.com/spreadsheets/d/1sT9R4zI1TtKzW_ufG7Uy4MHO5YVNZFI7yha09bC05zY/edit?usp=sharing",
-    "Project Preso Evaluation Section 1": "https://forms.gle/git5ytXLFg2ojY5dA",
-    "Project Preso Evaluation Section 2": "https://forms.gle/AXm3guowuiq544yB7",
+    
+    "Past Student Work": "https://drive.google.com/drive/folders/1szxdbP8n2eZhyC-mczMpex5Fn9ve8ddm",
+    "Reading folder": "https://drive.google.com/drive/u/0/folders/1yXcMB0Mqqfgp06wjK1P8ZUyK2dgw-bXg",
+    "Guest Speaker folder": "https://drive.google.com/drive/u/0/folders/1L3V4aNdom5KSCY6FiQ9wpNu9k9_yjH3T",
+    "Section 1 Recordings" : "",
+    "Section 2 Recordings" : "",
+
+    "Participation Sheet Section 1": "https://docs.google.com/spreadsheets/d/1yZ6wANJDsE9XBtaCtPVcjAqTTW_AkGfr/edit?usp=sharing&ouid=102661927327093264424&rtpof=true&sd=true",
+    "Participation Sheet Section 2": "https://docs.google.com/spreadsheets/d/1A0FARCI2qizfwcOURbcnhYxb4CA8luBm/edit?usp=sharing&ouid=102661927327093264424&rtpof=true&sd=true",
+    
+    /**
+     * EECS 441 Master Folder >
+     * EECS 441 GSI ONLY >
+     * EECS 441 - CURRENT TERM >
+     * Section 1/2 >
+     * Grades >
+     * 441 CURRENT TERM Student View Grades - Section 1/2
+     */
+
+    "Grades Sheet Section 1": "https://docs.google.com/spreadsheets/d/1hkcjJK12f64FHiAGidHkwwCX3sByisM3fsVAjE13Iig/edit?usp=sharing",
+    "Grades Sheet Section 2": "https://docs.google.com/spreadsheets/d/1yVG5HLBA2vEgIx94T8Ampcvtwl8XmsZ98jcY2XoONIg/edit?usp=sharing",
+    
+    "Project Preso Evaluation Section 1": "",
+    "Project Preso Evaluation Section 2": "",
+
     "Company Preso Evaluation Section 1": "https://forms.gle/UWCFGWCb6NhbcQmUA",
     "Company Preso Evaluation Section 2": "https://forms.gle/4m4QMEvw5122VDsb9",
     "Team Evaluation Section 1": "",
     "Team Evaluation Section 2": "",
-    // "Participation Sheet Section 1": "https://docs.google.com/spreadsheets/d/1W9YS4xe6pR176bvEnMIJWNlz1kOaoAZk/edit?usp=drive_link&ouid=104792800713878667139&rtpof=true&sd=true",
-    // "Participation Sheet Section 2": "https://docs.google.com/spreadsheets/d/11pGDfpp1NSZ2P3jTp-7J_3rxOcG9yktq/edit?usp=drive_link&ouid=104792800713878667139&rtpof=true&sd=true",
 
-    // "Grades Sheet Section 1": "https://docs.google.com/spreadsheets/d/1UOWSYlN9mS4gJMDGQ19JzQnyCLPA-Vs-FGe7jYh_Gao/edit?usp=sharing",
-    // "Grades Sheet Section 2": "https://docs.google.com/spreadsheets/d/1sT9R4zI1TtKzW_ufG7Uy4MHO5YVNZFI7yha09bC05zY/edit?usp=sharing",
 
-    // "Project Preso Evaluation Section 1": "https://docs.google.com/forms/d/e/1FAIpQLSeX1H-hnvghtR1s5Q28E5vUxfu9KMtrvKsXUk_rXv3-vUmJOg/viewform?usp=sf_link",
-    // "Project Preso Evaluation Section 2": "https://docs.google.com/forms/d/e/1FAIpQLSf61MOf7TnvjM9C0YSBpHJHjfJ2wJg3NTMQ-CdJkmhjKglVYQ/viewform?usp=sf_link",
-    
-    // "Company Preso Evaluation Section 1": "https://docs.google.com/forms/d/e/1FAIpQLSfVB4G3y0AQSATQQrLn9-BU15hZm67Ch5peumn9DExUt_CytA/viewform?usp=sf_link",
-    // "Company Preso Evaluation Section 2": "https://docs.google.com/forms/d/e/1FAIpQLSeqo974TpdSBX_hYfIXi9Cn7ATX3TX-w6C_lQZDNnf6d72cTw/viewform?usp=sf_link",
-    
-    // "Team Evaluation Section 1": "https://docs.google.com/forms/d/e/1FAIpQLSfzZCZVuElDxeDmZlXIkkORv-h90hgIlZObgBAl9EAiOpOWvw/viewform?usp=sf_link",
-    // "Team Evaluation Section 2": "https://docs.google.com/forms/d/e/1FAIpQLSdh_13z3c-uGfll4bv-CGydLzCDv6awFB_q8UXbZQhk2fp25Q/viewform?usp=sf_link",
+    /**   
+     * EECS 441 Master Folder > 
+     * EECS 441 Student Work > 
+     * EECS 441 - CURRENT TERM > 
+     * Section 1/2 > 
+     * Pitch | Assignment | Company Analysis | Preso (Section 1/2)
+     */
 
-    "Elevator Pitch Due Date": "Jan 17, 19, 22",
-    "Pitch folder Section 1": "https://drive.google.com/drive/u/0/folders/1HABdSB7SA4JAROy4L_IbXTJNDf7kIdcy",
-    "Pitch folder Section 2": "https://drive.google.com/drive/u/0/folders/1_KNULb4e6yMIWNfxVyjX4zkgIhvQVDGk",
+    "Elevator Pitch Due Date": "TBD",
+    "Pitch folder Section 1": "https://drive.google.com/drive/u/0/folders/16sZjttFBrI7MGmcjsiZGRoK_Il8yXxyN",
+    "Pitch folder Section 2": "https://drive.google.com/drive/u/0/folders/1AibtJIwozcjpBbhdSlSEppCVhkHBDd4C",
 
-    "Assignment 0 Due Date": "Jan 17",
-    "Assignment 0 Folder Section 1": "https://drive.google.com/drive/u/0/folders/1YD9CXrlRjP-4nJrAw9zSyZG09oZknVVw",
-    "Assignment 0 Folder Section 2": "https://drive.google.com/drive/u/0/folders/1pOKVH4UNkHkxU-vVAjwWj6cH675blA05",
+    "Assignment 0 Due Date": "TBD",
+    "Assignment 0 Folder Section 1": "https://drive.google.com/drive/u/0/folders/1Yy_58sUDszLyW-vhCt5uhWTKtCF9hwbZ",
+    "Assignment 0 Folder Section 2": "https://drive.google.com/drive/u/0/folders/18HAacbpDw2cxaTUF0Y_jiISCtRYd2ikP",
 
     "Company Preso Due Date": "See schedule",
-    "Company Preso Folder Section 1": "https://drive.google.com/drive/u/0/folders/1RvbtrR4sZiVU8SaUXY9AXNCDlo4bopxe",
-    "Company Preso Folder Section 2": "https://drive.google.com/drive/u/0/folders/1m9bqMiiahyRdQe1o7Yuc3-RDvmA0mcD6",
+    "Company Preso Folder Section 1": "https://drive.google.com/drive/u/0/folders/1AlqsR-_pCPczn8O-VzXx7Vhf31OwELci",
+    "Company Preso Folder Section 2": "https://drive.google.com/drive/u/0/folders/1-bTh0tcJtJ7cTabGzyfFDTIZEFgX5TCs",
 
-    "Preso 1 Due Date": "Jan 27",
-    "Preso 1 Folder Section 1": "https://drive.google.com/drive/u/0/folders/1INQTg-aUBW-kfFX2KO6BDl3KMOv1i5CU",
-    "Preso 1 Folder Section 2": "https://drive.google.com/drive/u/0/folders/1swdc9d6xPDJs_1sPYZ8hJlPAcLARpvDe",
+    "Preso 1 Due Date": "TBD",
+    "Preso 1 Folder Section 1": "https://drive.google.com/drive/u/0/folders/1vNhU9-MZ2KErDjIySvo07LM_aOPhmdSg",
+    "Preso 1 Folder Section 2": "https://drive.google.com/drive/u/0/folders/13F_OFusSTmcVPLDtLewyim-TwESpUP8K",
 
-    "Preso 2 Due Date": "Feb 12",
-    "Preso 2 Folder Section 1": "https://drive.google.com/drive/u/0/folders/1s6H97ykB4jX21cmO3aYLq9vCsveRCAio",
-    "Preso 2 Folder Section 2": "https://drive.google.com/drive/u/0/folders/1CrDgt4VBmLW9HVeqCyoYaInJKDovVqtW",
+    "Preso 2 Due Date": "TBD",
+    "Preso 2 Folder Section 1": "https://drive.google.com/drive/u/0/folders/19VKVifKuCtroJs2Nfp5OtyShbPbsjcVm",
+    "Preso 2 Folder Section 2": "https://drive.google.com/drive/u/0/folders/1UTpg9TwmriDR9tyFNX2ZYqmF2gqwhfuT",
 
-    "Preso 3 Due Date": "Mar 18",
-    "Preso 3 Folder Section 1": "https://drive.google.com/drive/u/0/folders/1Nz7doNqiUkqnKoSbM5CdRo1TrR0jjY6r",
-    "Preso 3 Folder Section 2": "https://drive.google.com/drive/u/0/folders/1RPOiLUGnNdNBZHK59z5J5TR1GG6k_jY1",
+    "Preso 3 Due Date": "TBD",
+    "Preso 3 Folder Section 1": "https://drive.google.com/drive/u/0/folders/1UGm1PF0i6ldD2kABRqhriXDcvrMu1y0W",
+    "Preso 3 Folder Section 2": "https://drive.google.com/drive/u/0/folders/1hpBwdeU71VZFrXhZeflAgCuy6mhwLmca",
 
-    "Preso 4 Due Date": "Mar 27",
-    "Preso 4 Folder Section 1": "https://drive.google.com/drive/u/0/folders/1EnThharzXOK6tmcFBcSac_1Q7yDfbp8H",
-    "Preso 4 Folder Section 2": "https://drive.google.com/drive/u/0/folders/1GXViVhN0Jluv_12pYpl1yIfxsDtAXfLr",
+    "Preso 4 Due Date": "TBD",
+    "Preso 4 Folder Section 1": "https://drive.google.com/drive/u/0/folders/1u7tyyXPdYDgxlnD8Gl7K9mSIMb0wneCg",
+    "Preso 4 Folder Section 2": "https://drive.google.com/drive/u/0/folders/1CCQkEABhcTp_M5K8FGoMqWkrMSMOjQOC",
 
-    "Preso 5 Due Date": "Apr 22",
-    "Preso 5 Folder Section 1": "https://drive.google.com/drive/u/0/folders/1fY8_kY8UVfvR53_M1WoaYLIs5EkStg4x",
-    "Preso 5 Folder Section 2": "https://drive.google.com/drive/u/0/folders/151WQIzR1hNeR1RAl4icgD_1tUocSb5g5",
+    "Preso 5 Due Date": "TBD",
+    "Preso 5 Folder Section 1": "https://drive.google.com/drive/u/0/folders/1Ik0k9w53v8ScNv1og3tCvt8mEthpTyox",
+    "Preso 5 Folder Section 2": "https://drive.google.com/drive/u/0/folders/13Ae7aNlnVtTdqmYZI1jFwWLtdiTSS_df",
 
+    /**   EECS 441 Master Folder > 
+     * EECS 441 GSI ONLY > 
+     * EECS 441 - CURRENT TERM > 
+     * Section 1/2 > 
+     * Project Groups Form - Section 1/2 
+     */
     "Project Groups Due Date": "class time",
-    "Project Groups Form Section 1": "https://docs.google.com/forms/d/e/1FAIpQLSe1sy1slO-6lzBhEyH_EYBaQ6FQDDGcYnvn1z0m43gPsVqnPQ/viewform?usp=sf_link",
-    "Project Groups Form Section 2": "https://docs.google.com/forms/d/e/1FAIpQLSf760mTpP-HhZ7pwCYq_wrQtVW6yezUHOuj8AKe1Jc-b5fQLg/viewform?usp=sf_link",
+    "Project Groups Form Section 1": "https://docs.google.com/forms/d/e/1FAIpQLSdrEIHBzKvuXDl8Ewms-85nBP-P3yiZK-pzQcLjRqg0gnCwyQ/viewform?usp=sf_link",
+    "Project Groups Form Section 2": "https://docs.google.com/forms/d/e/1FAIpQLSelEDEiHfB6H4TNBNCSumTuNlU7bqS9GtEs6aBL_1iyFyvVoA/viewform?usp=sf_link",
 }
 
 /* ====================================
