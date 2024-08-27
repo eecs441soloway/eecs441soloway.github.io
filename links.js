@@ -15,8 +15,8 @@ var links = {
     "Guest Speaker folder": "https://drive.google.com/drive/u/0/folders/1L3V4aNdom5KSCY6FiQ9wpNu9k9_yjH3T",
 
     // TODO
-    "Section 1 Recordings" : "",
-    "Section 2 Recordings" : "",
+    "Section 1 Recordings" : "https://tinyurl.com/441fall2024Section1VIDEOS",
+    "Section 2 Recordings" : "https://tinyurl.com/441fall2024Section2VIDEOS",
 
     "Participation Sheet Section 1": "https://docs.google.com/spreadsheets/d/1yZ6wANJDsE9XBtaCtPVcjAqTTW_AkGfr/edit?usp=sharing&ouid=102661927327093264424&rtpof=true&sd=true",
     "Participation Sheet Section 2": "https://docs.google.com/spreadsheets/d/1A0FARCI2qizfwcOURbcnhYxb4CA8luBm/edit?usp=sharing&ouid=102661927327093264424&rtpof=true&sd=true",
