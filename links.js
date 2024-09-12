@@ -36,10 +36,10 @@ var links = {
     "Project Preso Evaluation Section 1": "https://docs.google.com/forms/d/e/1FAIpQLSeldokkRLpBuXBvUN0Oe_MolYdimUGGnYAD5PbePTg2kcnWxg/viewform?usp=sf_link",
     "Project Preso Evaluation Section 2": "https://docs.google.com/forms/d/e/1FAIpQLSeGBX57qGlWv7PU7BRZwc3vVuvgc0_GRhCVinkUq6LJaAZ9xg/viewform?usp=sf_link",
 
-    "Company Preso Evaluation Section 1": "https://forms.gle/UWCFGWCb6NhbcQmUA",
-    "Company Preso Evaluation Section 2": "https://forms.gle/4m4QMEvw5122VDsb9",
-    "Team Evaluation Section 1": "",
-    "Team Evaluation Section 2": "",
+    "Company Preso Evaluation Section 1": "https://docs.google.com/forms/d/e/1FAIpQLSfnHzCnDqoet2_HYufhIlVlaTmaoAB8BXrv9dUPTPWg3NkUkQ/viewform?usp=sf_link",
+    "Company Preso Evaluation Section 2": "https://docs.google.com/forms/d/e/1FAIpQLSeS4HMdTOo619nIHz40rD6T9W6C75xR7wB2N0Cl9P37PsV_sw/viewform?usp=sf_link",
+    "Team Evaluation Section 1": "https://docs.google.com/forms/d/e/1FAIpQLSc95t4u0hAtLm0LiP7PHL8PMkg8x5DxMaapY2EpG10r2_jVlA/viewform?usp=sf_link",
+    "Team Evaluation Section 2": "https://docs.google.com/forms/d/e/1FAIpQLSdfqmYxpGwR8bn_3zA7ezfJ1YO7La__5LvtOFNPfUKkQzloRg/viewform?usp=sf_link",
 
 
     /**   
