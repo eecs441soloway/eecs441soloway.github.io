@@ -14,7 +14,6 @@ var links = {
     "Reading folder": "https://drive.google.com/drive/u/0/folders/1yXcMB0Mqqfgp06wjK1P8ZUyK2dgw-bXg",
     "Guest Speaker folder": "https://drive.google.com/drive/u/0/folders/1L3V4aNdom5KSCY6FiQ9wpNu9k9_yjH3T",
 
-    // TODO
     "Section 1 Recordings" : "https://leccap.engin.umich.edu/leccap/site/lmr3n6kaaa0o22gyh5t",
     "Section 2 Recordings" : "https://leccap.engin.umich.edu/leccap/site/yqwzvof5qlbparhzkzd",
 
