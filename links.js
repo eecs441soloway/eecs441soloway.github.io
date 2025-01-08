@@ -1,6 +1,6 @@
 var links = {
-    "Syllabus": "https://drive.google.com/drive/folders/1mqsTxhQxQINZDD3G7-qkQqct7RWVk92U?dmr=1&ec=wgc-drive-hero-goto",
-    "Syllabus EECS 498": "https://drive.google.com/drive/folders/1Xle5eX7os4q47qe2fWxcV8YicIdLov-T?dmr=1&ec=wgc-drive-hero-goto",
+    "441 Syllabus": "https://drive.google.com/drive/folders/1mqsTxhQxQINZDD3G7-qkQqct7RWVk92U?dmr=1&ec=wgc-drive-hero-goto",
+    "498 Syllabus": "https://drive.google.com/drive/folders/1Xle5eX7os4q47qe2fWxcV8YicIdLov-T?dmr=1&ec=wgc-drive-hero-goto",
     
     /**
      * EECS 441 Master Folder >
@@ -8,13 +8,18 @@ var links = {
      * EECS 441 - CURRENT TERM >
      * Request Absence Form
      */
-    "Absence Form": "https://docs.google.com/forms/d/1J2yNdPTRH-IkE4iAYEdmfSkXRxWSPw5m8I4HSZcxBOo/edit",
+    "441 Absence Form": "https://docs.google.com/forms/d/e/1FAIpQLSdSYP1s10SWHekAvpk6B5jf5vfiBw5XV4NjzPO4jbqI4M574w/viewform?usp=share_link",
+    "498 Absence Form": "https://docs.google.com/forms/d/e/1FAIpQLScz5Ra-tcOjNTdCEVsMjXMzWAW7s9nsyxpBe--rltZf52RABg/viewform?usp=share_link",
 
     
     "Past Student Work": "https://drive.google.com/drive/folders/1szxdbP8n2eZhyC-mczMpex5Fn9ve8ddm",
-    "Reading folder": "https://drive.google.com/drive/folders/138iJ4G0kHScmC9Y0QvOPstW59sVcZZtg?dmr=1&ec=wgc-drive-hero-goto",
-    "Guest Speaker folder": "https://drive.google.com/drive/folders/1p8QeNGxqwLIyaMVZ2c2R-rL3zM1dB-VJ?usp=share_link",
+    // "Reading folder": "https://drive.google.com/drive/folders/138iJ4G0kHScmC9Y0QvOPstW59sVcZZtg?dmr=1&ec=wgc-drive-hero-goto",
+    "441 Reading folder": "https://drive.google.com/drive/folders/1TyF4dglSD4fXYWy1vi-zXrfrHDKmesT_?dmr=1&ec=wgc-drive-hero-goto",
+    "498 Reading folder": "https://drive.google.com/drive/folders/1I5hnE074kPJmtC3D4x7vFv6j0TKB3KnZ?dmr=1&ec=wgc-drive-hero-goto",
 
+    //"Guest Speaker folder": "https://drive.google.com/drive/folders/1p8QeNGxqwLIyaMVZ2c2R-rL3zM1dB-VJ?usp=share_link",
+    "441 Guest Speaker folder": "https://drive.google.com/drive/folders/1p8QeNGxqwLIyaMVZ2c2R-rL3zM1dB-VJ?dmr=1&ec=wgc-drive-hero-goto",
+    "498 Guest Speaker folder": "https://drive.google.com/drive/folders/1dJI7GvqENYJ-TqvI6sI-cvqEtHnKygHM?dmr=1&ec=wgc-drive-hero-goto",
     "Section 1 Recordings" : "",
     "Section 2 Recordings" : "",
 
@@ -90,8 +95,8 @@ var links = {
      * Project Groups Form - Section 1/2 
      */
     "Project Groups Due Date": "class time",
-    "Project Groups Form Section 1": "https://docs.google.com/forms/d/e/1FAIpQLSdrEIHBzKvuXDl8Ewms-85nBP-P3yiZK-pzQcLjRqg0gnCwyQ/viewform?usp=sf_link",
-    "Project Groups Form Section 2": "https://docs.google.com/forms/d/e/1FAIpQLSelEDEiHfB6H4TNBNCSumTuNlU7bqS9GtEs6aBL_1iyFyvVoA/viewform?usp=sf_link",
+    "Project Groups Form Section 1": "https://docs.google.com/forms/d/e/1FAIpQLSc0SIBKNDrizpDu749pw7BICQmypOY2TKxpO-1Fnnw_Ib5HwQ/viewform?usp=share_link",
+    "Project Groups Form Section 2": "https://docs.google.com/forms/d/e/1FAIpQLSdlPxkwDd6VaYHyZc65qNjx724eTyT1DIva0uw_5VqaiQMrDw/viewform?usp=share_link",
 }
 
 /* ====================================
@@ -108,7 +113,10 @@ function loadSection1() {
     documentItem.href = "section-2.html";
 
     documentItem = document.getElementById("syllabus");
-    documentItem.href = links["Syllabus"]
+    documentItem.href = links["441 Syllabus"]
+
+    documentItem = document.getElementById("absence-form");
+    documentItem.href = links["441 Absence Form"];
 
     documentItem = document.getElementById("participation-sheet");
     documentItem.href = links["Participation Sheet Section 1"];
@@ -150,10 +158,10 @@ function loadSection1() {
     documentItem.href = links["Company Preso Folder Section 1"];
 
     documentItem = document.getElementById("reading-folder");
-    documentItem.href = links["Reading folder"];
+    documentItem.href = links["441 Reading folder"];
     
     documentItem = document.getElementById("guest-folder");
-    documentItem.href = links["Guest Speaker folder"];
+    documentItem.href = links["441 Guest Speaker folder"];
 
     documentItem = document.getElementById("pitch-folder");
     documentItem.href = links["Pitch folder Section 1"];
@@ -167,12 +175,17 @@ function loadSection2() {
 
     var documentItem = document.getElementById("page-title");
     documentItem.innerText = "EECS 498 Section 11";
+
     documentItem = document.getElementById("section-title");
     documentItem.innerText = "EECS 498 Section 11";
     documentItem.href = "section-1.html";
 
     documentItem = document.getElementById("syllabus");
-    documentItem.href = links["Syllabus EECS 498"];
+    documentItem.href = links["498 Syllabus"];
+
+
+    documentItem = document.getElementById("absence-form");
+    documentItem.href = links["498 Absence Form"];
 
     documentItem = document.getElementById("participation-sheet");
     documentItem.href = links["Participation Sheet Section 2"];
@@ -214,10 +227,10 @@ function loadSection2() {
     documentItem.href = links["Company Preso Folder Section 2"];
 
     documentItem = document.getElementById("reading-folder");
-    documentItem.href = links["Reading folder"];
+    documentItem.href = links["498 Reading folder"];
 
     documentItem = document.getElementById("guest-folder");
-    documentItem.href = links["Guest Speaker folder"];
+    documentItem.href = links["498 Guest Speaker folder"];
 
     documentItem = document.getElementById("pitch-folder");
     documentItem.href = links["Pitch folder Section 2"];
@@ -231,12 +244,7 @@ function loadSection2() {
 
 function loadLinks() {
 
-
-    var documentItem = document.getElementById("absence-form");
-    documentItem.href = links["Absence Form"];
-
-
-    documentItem = document.getElementById("past-work");
+    var documentItem = document.getElementById("past-work");
     documentItem.href = links["Past Student Work"];
 
     // Elevator pitch assignment
