@@ -17,15 +17,15 @@ var links = {
     "441 Reading folder": "https://drive.google.com/drive/folders/1TyF4dglSD4fXYWy1vi-zXrfrHDKmesT_?dmr=1&ec=wgc-drive-hero-goto",
     "498 Reading folder": "https://drive.google.com/drive/folders/1I5hnE074kPJmtC3D4x7vFv6j0TKB3KnZ?dmr=1&ec=wgc-drive-hero-goto",
 
-    
+
     //"Guest Speaker folder": "https://drive.google.com/drive/folders/1p8QeNGxqwLIyaMVZ2c2R-rL3zM1dB-VJ?usp=share_link",
     "441 Guest Speaker folder": "https://drive.google.com/drive/folders/1p8QeNGxqwLIyaMVZ2c2R-rL3zM1dB-VJ?dmr=1&ec=wgc-drive-hero-goto",
     "498 Guest Speaker folder": "https://drive.google.com/drive/folders/1dJI7GvqENYJ-TqvI6sI-cvqEtHnKygHM?dmr=1&ec=wgc-drive-hero-goto",
     "Section 1 Recordings" : "",
     "Section 2 Recordings" : "",
 
-    "Participation Sheet Section 1": "https://docs.google.com/spreadsheets/d/11wcWN4rgHw_Od4NAKSNuQSMEjKCl1AUccM-yCin8DRg/edit?usp=share_link",
-    "Participation Sheet Section 2": "https://docs.google.com/spreadsheets/d/1i0I73e4D4zc1NX3Z-vxzKy7k--5IcAr0g_XCP8C4VdY/edit?usp=share_link",
+    "Participation Sheet Section 1": "https://docs.google.com/spreadsheets/d/1o-EgehcbLQ9DkB6i1HhDegJjqFC75mdz/edit?usp=sharing&ouid=102661927327093264424&rtpof=true&sd=true",
+    "Participation Sheet Section 2": "https://docs.google.com/spreadsheets/d/1uvoabuT0Q4NeZNjKmBs0zSYyFWNHLlie/edit?usp=sharing&ouid=102661927327093264424&rtpof=true&sd=true",
     
     /**
      * EECS 441 Master Folder >
@@ -57,11 +57,11 @@ var links = {
      * Pitch | Assignment | Company Analysis | Preso (Section 1/2)
      */
 
-    "Elevator Pitch Due Date": "TBD",
+    "Elevator Pitch Due Date": "Jan 10, Jan 15, Jan 17",
     "Pitch folder Section 1": "https://drive.google.com/drive/folders/1H_Pj3rFN3Ap1TflTHwhiJyXpmZmtiLbQ?usp=share_link",
     "Pitch folder Section 2": "https://drive.google.com/drive/folders/1JNIifY1HSTJSgRud7XWv50uIp2MJDWWs?usp=share_link",
 
-    "Assignment 0 Due Date": "TBD",
+    "Assignment 0 Due Date": "Jan 15",
     "Assignment 0 Folder Section 1": "https://drive.google.com/drive/folders/1sZ8U4ik5m-sIOPgfnVULEdY88qEPUYs8?usp=share_link",
     "Assignment 0 Folder Section 2": "https://drive.google.com/drive/folders/1igT89CJboJ9RYkHZYjd6g5jF2rtIXPrK?usp=share_link",
 
