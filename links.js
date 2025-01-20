@@ -21,8 +21,8 @@ var links = {
     //"Guest Speaker folder": "https://drive.google.com/drive/folders/1p8QeNGxqwLIyaMVZ2c2R-rL3zM1dB-VJ?usp=share_link",
     "441 Guest Speaker folder": "https://drive.google.com/drive/folders/1p8QeNGxqwLIyaMVZ2c2R-rL3zM1dB-VJ?dmr=1&ec=wgc-drive-hero-goto",
     "498 Guest Speaker folder": "https://drive.google.com/drive/folders/1dJI7GvqENYJ-TqvI6sI-cvqEtHnKygHM?dmr=1&ec=wgc-drive-hero-goto",
-    "Section 1 Recordings" : "https://tinyurl.com/441winter2025ViewVideos",
-    "Section 2 Recordings" : "https://tinyurl.com/498winter2025ViewClassVideos",
+    "Section 1 Recordings" : "https://leccap.engin.umich.edu/leccap/site/3atu55g0kpc8jfnbjpp",
+    "Section 2 Recordings" : "https://leccap.engin.umich.edu/leccap/site/u1r2zqpyrmi7c72nkrf",
 
     "Participation Sheet Section 1": "https://docs.google.com/spreadsheets/d/1o-EgehcbLQ9DkB6i1HhDegJjqFC75mdz/edit?usp=sharing&ouid=102661927327093264424&rtpof=true&sd=true",
     "Participation Sheet Section 2": "https://docs.google.com/spreadsheets/d/1uvoabuT0Q4NeZNjKmBs0zSYyFWNHLlie/edit?usp=sharing&ouid=102661927327093264424&rtpof=true&sd=true",
