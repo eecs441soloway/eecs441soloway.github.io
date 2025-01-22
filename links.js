@@ -39,8 +39,8 @@ var links = {
     "Grades Sheet Section 1": "",
     "Grades Sheet Section 2": "",
     
-    "Project Preso Evaluation Section 1": "",
-    "Project Preso Evaluation Section 2": "",
+    "Project Preso Evaluation Section 1": "https://docs.google.com/forms/d/e/1FAIpQLSes_20ntqfWo-mdFO8kna-7vdDJg5ITc-8_U7TZSCw9qqCKTQ/viewform?usp=dialog",
+    "Project Preso Evaluation Section 2": "https://docs.google.com/forms/d/e/1FAIpQLScVQbxF0VN970nRfZd6DFyzHJ7C6tPXwgW2lXrEBKnNEeQJUQ/viewform?usp=dialog",
 
     "Company Preso Evaluation Section 1": "",
     "Company Preso Evaluation Section 2": "",
