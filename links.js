@@ -73,8 +73,7 @@ var links = {
     "Preso 1 Folder Section 1": "https://drive.google.com/drive/folders/1hzd4pL0KUd0rJtWaZCOqVOE3m_bV1e5o?usp=share_link",
     "Preso 1 Folder Section 2": "https://drive.google.com/drive/folders/1LogrCFMHIdJM_mbLBKE59C2GASXFyG1z?usp=share_link",
 
-    "Preso 2 Due Date": "Feb 7",
-    "498 Preso 2 Due Date": "Feb 12",
+    "Preso 2 Due Date": "Feb 12",
     "Preso 2 Folder Section 1": "https://drive.google.com/drive/folders/1RCs2_QzcswRUHhoE6yGtB40YF3jroIjv?usp=share_link",
     "Preso 2 Folder Section 2": "https://drive.google.com/drive/folders/16RN9Swul6nmRtuG0XC6_H8MbLcSrLu0L?usp=share_link",
 
@@ -169,12 +168,7 @@ function loadSection1() {
     documentItem.href = links["Pitch folder Section 1"];
 
     documentItem = document.getElementById("project-groups-forms");
-    documentItem.href = links["Project Groups Form Section 1"];
-
-    //added
-    documentItem = document.getElementById("preso-2-due");
-    documentItem.textContent = links["Preso 2 Due Date"];
-
+    documentItem.href = links["Project Groups Form Section 1"]
 }
 
 function loadSection2() {
@@ -245,9 +239,6 @@ function loadSection2() {
     documentItem = document.getElementById("project-groups-forms");
     documentItem.href = links["Project Groups Form Section 2"]
 
-    // added: 
-    documentItem = document.getElementById("preso-2-due");
-    documentItem.textContent = links["498 Preso 2 Due Date"];
 
 }
 
@@ -280,8 +271,8 @@ function loadLinks() {
     documentItem.textContent = links["Preso 1 Due Date"];
 
     // Preso 2
-    // documentItem = document.getElementById("preso-2-due");
-    // documentItem.textContent = links["Preso 2 Due Date"];
+    documentItem = document.getElementById("preso-2-due");
+    documentItem.textContent = links["Preso 2 Due Date"];
 
     // Preso 3
     documentItem = document.getElementById("preso-3-due");
