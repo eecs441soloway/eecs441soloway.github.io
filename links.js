@@ -36,8 +36,8 @@ var links = {
      * 441 CURRENT TERM Student View Grades - Section 1/2
      */
 
-    "Grades Sheet Section 1": "",
-    "Grades Sheet Section 2": "",
+    "Grades Sheet Section 1": "https://docs.google.com/spreadsheets/d/1M0WoDhqbW7fIsgcdiBLe7yA3ojmQk0hsaQztnvikdrY/edit?usp=sharing",
+    "Grades Sheet Section 2": "https://docs.google.com/spreadsheets/d/10zGHnwGYjMWSX1fHVMQryMdVP5ho0BpDEkrozW038H4/edit?usp=sharing",
     
     "Project Preso Evaluation Section 1": "https://docs.google.com/forms/d/e/1FAIpQLSes_20ntqfWo-mdFO8kna-7vdDJg5ITc-8_U7TZSCw9qqCKTQ/viewform?usp=dialog",
     "Project Preso Evaluation Section 2": "https://docs.google.com/forms/d/e/1FAIpQLScVQbxF0VN970nRfZd6DFyzHJ7C6tPXwgW2lXrEBKnNEeQJUQ/viewform?usp=dialog",
