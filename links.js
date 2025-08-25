@@ -57,11 +57,11 @@ var links = {
      * Pitch | Assignment | Company Analysis | Preso (Section 1/2)
      */
 
-    "Elevator Pitch Due Date": "27 Aug, 29 Aug, 3 Sep",
+    "Elevator Pitch Due Date": "Aug 27, Aug 29, Sep 3",
     "Pitch folder Section 1": "https://drive.google.com/drive/folders/1_EapnScnLatVsp7kQQ691-R4tNuAULi8?dmr=1&ec=wgc-drive-hero-goto",
     "Pitch folder Section 2": "https://drive.google.com/drive/folders/1-TkggNmW42A-YYL7_6uA82xnhSRAxOUl?dmr=1&ec=wgc-drive-hero-goto",
 
-    "Assignment 0 Due Date": "27 Aug",
+    "Assignment 0 Due Date": "Aug 27",
     "Assignment 0 Folder Section 1": "https://drive.google.com/drive/folders/13nUBwuzBaKGtZxlAdLAPU58dTbLwE7I2?dmr=1&ec=wgc-drive-hero-goto",
     "Assignment 0 Folder Section 2": "https://drive.google.com/drive/folders/1GzmJmyko8wYurlWA2Q3Mc6dC6ASLUW95?dmr=1&ec=wgc-drive-hero-goto",
 
