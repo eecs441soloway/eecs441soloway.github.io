@@ -21,8 +21,8 @@ var links = {
     //"Guest Speaker folder": "https://drive.google.com/drive/folders/1p8QeNGxqwLIyaMVZ2c2R-rL3zM1dB-VJ?usp=share_link",
     "441 Guest Speaker folder": "https://drive.google.com/drive/folders/1Y9IoYUYz2ObOfH704lTNPAlo9Dfa-HGB?dmr=1&ec=wgc-drive-hero-goto",
     "498 Guest Speaker folder": "https://drive.google.com/drive/folders/12vWqa6rVqMGI3Z8bXy6OWWs8fCSrtuhO?dmr=1&ec=wgc-drive-hero-goto",
-    "Section 1 Recordings" : "",
-    "Section 2 Recordings" : "",
+    "Section 1 Recordings" : "https://tinyurl.com/441fall2025ClassVideos",
+    "Section 2 Recordings" : "https://tinyurl.com/498fall2025ClasVideos",
 
     "Participation Sheet Section 1": "https://docs.google.com/spreadsheets/d/1Fl8chtWXuSw04k6_gRDeG2voewnSWnWC/edit?gid=302893071#gid=302893071",
     "Participation Sheet Section 2": "https://docs.google.com/spreadsheets/d/1X4tfOHBU73RpwAw7kes5m7mHec7JlAV0/edit?gid=302893071#gid=302893071",
