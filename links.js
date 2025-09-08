@@ -39,8 +39,8 @@ var links = {
     "Grades Sheet Section 1": "https://docs.google.com/spreadsheets/d/1ulhVoXXGiqAr2TEs-tVc_XwB9a2hQP28og4GuehezNw/edit?gid=1897282051#gid=1897282051",
     "Grades Sheet Section 2": "https://docs.google.com/spreadsheets/d/1yh5mYKfdPt3nYsUN4uhr4vO8dt_jBNh1tCgSPJ7fNCA/edit?gid=1897282051#gid=1897282051",
     
-    "Project Preso Evaluation Section 1": "https://docs.google.com/forms/d/e/1FAIpQLSc8TyM0UuJKzXwzw720z6ufFABA9wbUScSO2-b5OZjMfiMm0A/viewform?usp=header",
-    "Project Preso Evaluation Section 2": "https://docs.google.com/forms/d/e/1FAIpQLSdufnMr5VrB-WEJyV8RksYvEwWAtdReVjsGcwmWvumi7TQFlw/viewform?usp=header",
+    "Project Preso Evaluation Section 1": "https://docs.google.com/forms/d/e/1FAIpQLSc8TyM0UuJKzXwzw720z6ufFABA9wbUScSO2-b5OZjMfiMm0A/viewform?usp=dialog",
+    "Project Preso Evaluation Section 2": "https://docs.google.com/forms/d/e/1FAIpQLSdufnMr5VrB-WEJyV8RksYvEwWAtdReVjsGcwmWvumi7TQFlw/viewform?usp=dialog",
 
     "Company Preso Evaluation Section 1": "https://docs.google.com/forms/d/e/1FAIpQLSfsEsTm09FvVuSf1IcUkgy3nxETMwqLo2HAwHk8kyAFOKw-Hw/viewform?usp=header",
     "Company Preso Evaluation Section 2": "https://docs.google.com/forms/d/e/1FAIpQLSeX2d1cFa_NxcrthILfKNAXQDvULAFl8AwSIcgob3RxmCKxXA/viewform?usp=header",
