@@ -1,6 +1,6 @@
 var links = {
-    "441 Syllabus": "https://drive.google.com/drive/folders/1mh6Z3WX3Sf-Qb5O-RH2o6ZPLUprPTMKH?dmr=1&ec=wgc-drive-hero-goto",
-    "498 Syllabus": "https://drive.google.com/drive/folders/1vIBcoUYTeqKyf9Yo_d3xeo835EpShyRc?dmr=1&ec=wgc-drive-hero-goto",
+    "441 Syllabus": "https://drive.google.com/drive/folders/1o5ePPk6J79FpN7dPeGblsfjzbyVpOBrr?dmr=1&ec=wgc-drive-hero-goto",
+    "498 Syllabus": "https://drive.google.com/drive/folders/1jBkQz2OR_0i7r0Xj0IjPZqDnoVxoqcld?dmr=1&ec=wgc-drive-hero-goto",
     
     /**
      * EECS 441 Master Folder >
@@ -8,24 +8,24 @@ var links = {
      * EECS 441 - CURRENT TERM >
      * Request Absence Form
      */
-    "441 Absence Form": "https://docs.google.com/forms/d/e/1FAIpQLSeItpugoRE-q2Q71CaTTiZEMHZrRDwb7GIaWnFBtPhUogjdOw/viewform?usp=header",
-    "498 Absence Form": "https://docs.google.com/forms/d/e/1FAIpQLSe6Y6GrFzxG1HC4baIFxPzBAOKTW_nq5k3Xri0dspMX7OCQzQ/viewform?usp=header",
+    "441 Absence Form": "https://docs.google.com/forms/d/e/1FAIpQLSekYDmBmqI4Go1_VPJYz6TbK9PTlNmiSppAu9xhy7YiK7TqcA/viewform?usp=publish-editor",
+    "498 Absence Form": "https://docs.google.com/forms/d/e/1FAIpQLSfIfJj6co9qWDi5RPQGGu-e-565bUQ8VuJ288MA1c0DJp6tfg/viewform?usp=publish-editor",
 
     
     "Past Student Work": "https://drive.google.com/drive/folders/1szxdbP8n2eZhyC-mczMpex5Fn9ve8ddm",
     // "Reading folder": "https://drive.google.com/drive/folders/138iJ4G0kHScmC9Y0QvOPstW59sVcZZtg?dmr=1&ec=wgc-drive-hero-goto",
-    "441 Reading folder": "https://drive.google.com/drive/folders/1AI0kqP2fjDfKCwEuPif3mQ1q-lYplUwZ?dmr=1&ec=wgc-drive-hero-goto",
-    "498 Reading folder": "https://drive.google.com/drive/folders/1xZjkfwsaM6eFGjQcse-E4zVKd8B8_DDl?dmr=1&ec=wgc-drive-hero-goto",
+    "441 Reading folder": "https://drive.google.com/drive/folders/1lgN0jaBNmthrRbxzQJIeziI24EsodoYl?dmr=1&ec=wgc-drive-hero-goto",
+    "498 Reading folder": "https://drive.google.com/drive/folders/18fd_aGX1OVr6qRaKYKvKripyDnmmTKu-?dmr=1&ec=wgc-drive-hero-goto",
 
 
     //"Guest Speaker folder": "https://drive.google.com/drive/folders/1p8QeNGxqwLIyaMVZ2c2R-rL3zM1dB-VJ?usp=share_link",
-    "441 Guest Speaker folder": "https://drive.google.com/drive/folders/1Y9IoYUYz2ObOfH704lTNPAlo9Dfa-HGB?dmr=1&ec=wgc-drive-hero-goto",
-    "498 Guest Speaker folder": "https://drive.google.com/drive/folders/12vWqa6rVqMGI3Z8bXy6OWWs8fCSrtuhO?dmr=1&ec=wgc-drive-hero-goto",
-    "Section 1 Recordings" : "https://tinyurl.com/441fall2025ClassVideos",
-    "Section 2 Recordings" : "https://tinyurl.com/498fall2025ClasVideos",
+    "441 Guest Speaker folder": "https://drive.google.com/drive/folders/1WIWhAP4JWAZ6kby1m-GIQtZU36dVpFZZ?dmr=1&ec=wgc-drive-hero-goto",
+    "498 Guest Speaker folder": "https://drive.google.com/drive/folders/1yXiKyOgBBsP57WRS5_Qjj6ZRVJGSg1UP?dmr=1&ec=wgc-drive-hero-goto",
+    "Section 1 Recordings" : "",
+    "Section 2 Recordings" : "",
 
-    "Participation Sheet Section 1": "https://docs.google.com/spreadsheets/d/1Fl8chtWXuSw04k6_gRDeG2voewnSWnWC/edit?gid=302893071#gid=302893071",
-    "Participation Sheet Section 2": "https://docs.google.com/spreadsheets/d/1X4tfOHBU73RpwAw7kes5m7mHec7JlAV0/edit?gid=302893071#gid=302893071",
+    "Participation Sheet Section 1": "https://docs.google.com/spreadsheets/d/1821B8ajgSrrSaGJL0yaYh0A1JkGwclH8/edit?gid=302893071#gid=302893071",
+    "Participation Sheet Section 2": "https://docs.google.com/spreadsheets/d/1PGjrZ97N3SYzfoFOADDfXyXYMluQpgeN/edit?gid=302893071#gid=302893071",
 
     /**
      * EECS 441 Master Folder >
@@ -36,17 +36,17 @@ var links = {
      * 441 CURRENT TERM Student View Grades - Section 1/2
      */
 
-    "Grades Sheet Section 1": "https://docs.google.com/spreadsheets/d/1ulhVoXXGiqAr2TEs-tVc_XwB9a2hQP28og4GuehezNw/edit?gid=1897282051#gid=1897282051",
-    "Grades Sheet Section 2": "https://docs.google.com/spreadsheets/d/1yh5mYKfdPt3nYsUN4uhr4vO8dt_jBNh1tCgSPJ7fNCA/edit?gid=1897282051#gid=1897282051",
+    "Grades Sheet Section 1": "https://docs.google.com/spreadsheets/d/1ggrbBkO9auf4GaslILd1eMuSbd07BTA5DQfln9IJBb8/edit?gid=1897282051#gid=1897282051",
+    "Grades Sheet Section 2": "https://docs.google.com/spreadsheets/d/1vh4mm26xFV-GAaHmBVsAWyrw_5brhSDr_JvNNDRYVXQ/edit?gid=1897282051#gid=1897282051",
     
-    "Project Preso Evaluation Section 1": "https://docs.google.com/forms/d/e/1FAIpQLSc8TyM0UuJKzXwzw720z6ufFABA9wbUScSO2-b5OZjMfiMm0A/viewform?usp=dialog",
-    "Project Preso Evaluation Section 2": "https://docs.google.com/forms/d/e/1FAIpQLSdufnMr5VrB-WEJyV8RksYvEwWAtdReVjsGcwmWvumi7TQFlw/viewform?usp=dialog",
+    "Project Preso Evaluation Section 1": "https://docs.google.com/forms/d/e/1FAIpQLSdQN0QuChUhme2vO-5US2glqNfSFm9DL4o3XQKqwxO_i8vXQw/viewform?usp=publish-editor",
+    "Project Preso Evaluation Section 2": "https://docs.google.com/forms/d/e/1FAIpQLSdBzEE0mp-HhucL8ty6NY59Vhz0fqIRQEag0kYc1Zhdx9B6rg/viewform?usp=header",
 
-    "Company Preso Evaluation Section 1": "https://docs.google.com/forms/d/e/1FAIpQLSfsEsTm09FvVuSf1IcUkgy3nxETMwqLo2HAwHk8kyAFOKw-Hw/viewform?usp=header",
-    "Company Preso Evaluation Section 2": "https://docs.google.com/forms/d/e/1FAIpQLSeX2d1cFa_NxcrthILfKNAXQDvULAFl8AwSIcgob3RxmCKxXA/viewform?usp=header",
+    "Company Preso Evaluation Section 1": "https://docs.google.com/forms/d/e/1FAIpQLSe9ZejMXMtPdbnEwTCjab0lox8OCwm7XgJDTbUyJJ8DkVAM2w/viewform?usp=publish-editor",
+    "Company Preso Evaluation Section 2": "https://docs.google.com/forms/d/e/1FAIpQLSdVUpcW_EkqdvkOU1mRfHLCWxtD8tFsuA77npDVue1z7i4klA/viewform?usp=publish-editor",
     
-    "Team Evaluation Section 1": "https://docs.google.com/forms/d/e/1FAIpQLScN7pUPkVG_iihHgLCK8LEEWdWbSJeHWSdzCoWMx9kDwGHQzA/viewform?usp=header",
-    "Team Evaluation Section 2": "https://docs.google.com/forms/d/e/1FAIpQLSd5z9hjeu_Lf6URn6XeS4mgk6fNnZa0m-WSbJqw1fvtn1ZDBA/viewform?usp=dialog",
+    "Team Evaluation Section 1": "https://docs.google.com/forms/d/e/1FAIpQLSeZZme2Ji9C0nCq1fi3r2k72qs-gYmRWc6jubDLtbe_XAo_zg/viewform?usp=publish-editor",
+    "Team Evaluation Section 2": "https://docs.google.com/forms/d/e/1FAIpQLSclxvXmuTtdEae6Z0yEGIW9mO80D7DSDexsbjHAf6xtzOY3wg/viewform?usp=publish-editor",
 
 
     /**   
@@ -57,37 +57,37 @@ var links = {
      * Pitch | Assignment | Company Analysis | Preso (Section 1/2)
      */
 
-    "Elevator Pitch Due Date": "Aug 27, Aug 29, Sep 3",
-    "Pitch folder Section 1": "https://drive.google.com/drive/folders/1_EapnScnLatVsp7kQQ691-R4tNuAULi8?dmr=1&ec=wgc-drive-hero-goto",
-    "Pitch folder Section 2": "https://drive.google.com/drive/folders/1-TkggNmW42A-YYL7_6uA82xnhSRAxOUl?dmr=1&ec=wgc-drive-hero-goto",
+    "Elevator Pitch Due Date": "TBD",
+    "Pitch folder Section 1": "https://drive.google.com/drive/folders/1BqILPtqEZ30zV5F8ipvzjfTg_BWfsBvI?dmr=1&ec=wgc-drive-hero-goto",
+    "Pitch folder Section 2": "https://drive.google.com/drive/folders/1mOAIy1-NKxoyTWwqmflwKqI3cR9Gjz_a?dmr=1&ec=wgc-drive-hero-goto",
 
-    "Assignment 0 Due Date": "Aug 27",
-    "Assignment 0 Folder Section 1": "https://drive.google.com/drive/folders/13nUBwuzBaKGtZxlAdLAPU58dTbLwE7I2?dmr=1&ec=wgc-drive-hero-goto",
-    "Assignment 0 Folder Section 2": "https://drive.google.com/drive/folders/1GzmJmyko8wYurlWA2Q3Mc6dC6ASLUW95?dmr=1&ec=wgc-drive-hero-goto",
+    "Assignment 0 Due Date": "TBD",
+    "Assignment 0 Folder Section 1": "https://drive.google.com/drive/folders/1TW786PC8X0LakxgSU0jckcZSzCyhnIlG?dmr=1&ec=wgc-drive-hero-goto",
+    "Assignment 0 Folder Section 2": "https://drive.google.com/drive/folders/1EpHMbJnse963kk356FfRAJSLmhOKuNT5?dmr=1&ec=wgc-drive-hero-goto",
 
     "Company Preso Due Date": "See schedule",
-    "Company Preso Folder Section 1": "https://drive.google.com/drive/folders/15RIzKareKmPPzTw8kL4SVSCr9G-ORRwK?dmr=1&ec=wgc-drive-hero-goto",
-    "Company Preso Folder Section 2": "https://drive.google.com/drive/folders/1gv1XD87A7TRhz2fZMv8b_j49uvBpWHlv?dmr=1&ec=wgc-drive-hero-goto",
+    "Company Preso Folder Section 1": "https://drive.google.com/drive/folders/1jUGEp04bED9pnNBJ4w1nN4jb3XzSR76Z?dmr=1&ec=wgc-drive-hero-goto",
+    "Company Preso Folder Section 2": "https://drive.google.com/drive/folders/14kHt1LHeHCMHqTsc0yzc2luhXO8TQPgz?dmr=1&ec=wgc-drive-hero-goto",
 
-    "Preso 1 Due Date": "Sep 8",
-    "Preso 1 Folder Section 1": "https://drive.google.com/drive/folders/1pCayYMwVomZ20Hc_pPw-cb5w8ArB5mIM?dmr=1&ec=wgc-drive-hero-goto",
-    "Preso 1 Folder Section 2": "https://drive.google.com/drive/folders/1O-5qm5G20sikTOkvwQdEq3jjIggtk7N-?dmr=1&ec=wgc-drive-hero-goto",
+    "Preso 1 Due Date": "TBD",
+    "Preso 1 Folder Section 1": "https://drive.google.com/drive/folders/1i0YAfDlnMxeM4sjQXhkGLlYlRBHoDn9l?dmr=1&ec=wgc-drive-hero-goto",
+    "Preso 1 Folder Section 2": "https://drive.google.com/drive/folders/1Lz-fXZ-SQSnAY0sMTsUCY-HkOkn-wJn2?dmr=1&ec=wgc-drive-hero-goto",
 
-    "Preso 2 Due Date": "Sep 24",
-    "Preso 2 Folder Section 1": "https://drive.google.com/drive/folders/1H7tw3wOaQQkuGx0h2XtlyDZwxFzcA06F?dmr=1&ec=wgc-drive-hero-goto",
-    "Preso 2 Folder Section 2": "https://drive.google.com/drive/folders/1akjJ26X5hJDs2jLpQaWutO2KoFoHRstg?dmr=1&ec=wgc-drive-hero-goto",
+    "Preso 2 Due Date": "TBD",
+    "Preso 2 Folder Section 1": "https://drive.google.com/drive/folders/1m4DT2ciT2h5V5bBi-6utjkYCP-2_hrAj?dmr=1&ec=wgc-drive-hero-goto",
+    "Preso 2 Folder Section 2": "https://drive.google.com/drive/folders/1lYh7s27Qe8ryMm68jC6gTtuen5aNdjGe?dmr=1&ec=wgc-drive-hero-goto",
 
-    "Preso 3 Due Date": "Oct 27",
-    "Preso 3 Folder Section 1": "https://drive.google.com/drive/folders/1AlJdKQJ2688O0uqH41VSq-5smrv9svTU?dmr=1&ec=wgc-drive-hero-goto",
-    "Preso 3 Folder Section 2": "https://drive.google.com/drive/folders/1D3hXaJjaUVtRPDAkLb_A0aruo_hdUO6D?dmr=1&ec=wgc-drive-hero-goto",
+    "Preso 3 Due Date": "TBD",
+    "Preso 3 Folder Section 1": "https://drive.google.com/drive/folders/1hz6ggZ3ITd88aI7ydy8HsPyXqN0RL3sJ?dmr=1&ec=wgc-drive-hero-goto",
+    "Preso 3 Folder Section 2": "https://drive.google.com/drive/folders/1uEql5Z-SN1u9q37lIzsSfWCJTxQJaKUI?dmr=1&ec=wgc-drive-hero-goto",
 
-    "Preso 4 Due Date": "Nov 3",
-    "Preso 4 Folder Section 1": "https://drive.google.com/drive/folders/1eJr6HJy0zmgTufI6TzioHCgVVQ2u4F8d?dmr=1&ec=wgc-drive-hero-goto",
-    "Preso 4 Folder Section 2": "https://drive.google.com/drive/folders/1s0rMwJ9k6YG9RA1RfHKFkGJ0dqVgNT9i?dmr=1&ec=wgc-drive-hero-goto",
+    "Preso 4 Due Date": "TBD",
+    "Preso 4 Folder Section 1": "https://drive.google.com/drive/folders/1ZF43m4XWC5vQKIdAfmXKaESlYw0oWqtr?dmr=1&ec=wgc-drive-hero-goto",
+    "Preso 4 Folder Section 2": "https://drive.google.com/drive/folders/18SrxMP3AxAcVkkDYblQ6S9zd4ZicNbGK?dmr=1&ec=wgc-drive-hero-goto",
 
-    "Preso 5 Due Date": "Dec 5, Dec 8",
-    "Preso 5 Folder Section 1": "https://drive.google.com/drive/folders/1j_VB5J5TlpSkS9odhh-iyqtQ2naRe6EM?dmr=1&ec=wgc-drive-hero-goto",
-    "Preso 5 Folder Section 2": "https://drive.google.com/drive/folders/1PwPnAtmOEGnCKj9yulBqCHfOxteJ5OFZ?dmr=1&ec=wgc-drive-hero-goto",
+    "Preso 5 Due Date": "TBD",
+    "Preso 5 Folder Section 1": "https://drive.google.com/drive/folders/1cHJuGN2wuzRy27HyrtfIbDJSoIoxHKgX?dmr=1&ec=wgc-drive-hero-goto",
+    "Preso 5 Folder Section 2": "https://drive.google.com/drive/folders/1J21ugVrMZLfmIqq851DVOusmzhZDEprs?dmr=1&ec=wgc-drive-hero-goto",
 
     /**   EECS 441 Master Folder > 
      * EECS 441 GSI ONLY > 
@@ -96,8 +96,8 @@ var links = {
      * Project Groups Form - Section 1/2 
      */
     "Project Groups Due Date": "class time",
-    "Project Groups Form Section 1": "https://docs.google.com/forms/d/e/1FAIpQLSfQzzsVva7JQbPtQ5MsETn9IxfNUU5RiXoqSjECLtPsQJW0gg/viewform?usp=header",
-    "Project Groups Form Section 2": "https://docs.google.com/forms/d/e/1FAIpQLScXXLOtKW4f4hdlxaQtysrssWMz7SII-iC0GrZ1Lqtfi7Byqw/viewform?usp=dialog",
+    "Project Groups Form Section 1": "https://docs.google.com/forms/d/e/1FAIpQLSfBJbWI-TD-YMnJuL0LOaPolesPXZeTeaHDTJY5ZH1OX9CsSg/viewform?usp=publish-editor",
+    "Project Groups Form Section 2": "https://docs.google.com/forms/d/e/1FAIpQLSfmejI5uIYqQ2UelJzoFc-RMElb23OESCJIEU1TX33Ne5Vfog/viewform?usp=publish-editor",
 }
 
 /* ====================================
@@ -175,10 +175,10 @@ function loadSection2() {
     loadLinks();
 
     var documentItem = document.getElementById("page-title");
-    documentItem.innerText = "EECS 498 Section 5";
+    documentItem.innerText = "EECS 498 Section 11";
 
     documentItem = document.getElementById("section-title");
-    documentItem.innerText = "EECS 498 Section 5";
+    documentItem.innerText = "EECS 498 Section 11";
     documentItem.href = "section-1.html";
 
     documentItem = document.getElementById("syllabus");
