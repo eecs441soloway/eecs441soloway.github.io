@@ -112,7 +112,7 @@ function loadSection1() {
     documentItem = document.getElementById("section-title");
     if (documentItem) {
         documentItem.innerText = "EECS 441 Section 1";
-        documentItem.href = "section-2.html";
+        documentItem.href = "498.html";
     }
 
     documentItem = document.getElementById("syllabus");
@@ -182,7 +182,7 @@ function loadSection2() {
     documentItem = document.getElementById("section-title");
     if (documentItem) {
         documentItem.innerText = "EECS 498 Section 11";
-        documentItem.href = "section-1.html";
+        documentItem.href = "441.html";
     }
 
     documentItem = document.getElementById("syllabus");
