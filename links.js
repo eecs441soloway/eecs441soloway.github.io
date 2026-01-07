@@ -61,7 +61,7 @@ var links = {
     "Pitch folder Section 1": "https://drive.google.com/drive/folders/1BqILPtqEZ30zV5F8ipvzjfTg_BWfsBvI?dmr=1&ec=wgc-drive-hero-goto",
     "Pitch folder Section 2": "https://drive.google.com/drive/folders/1mOAIy1-NKxoyTWwqmflwKqI3cR9Gjz_a?dmr=1&ec=wgc-drive-hero-goto",
 
-    "Assignment 0 Due Date": "TBD",
+    "Assignment 0 Due Date": "Jan 12",
     "Assignment 0 Folder Section 1": "https://drive.google.com/drive/folders/1TW786PC8X0LakxgSU0jckcZSzCyhnIlG?dmr=1&ec=wgc-drive-hero-goto",
     "Assignment 0 Folder Section 2": "https://drive.google.com/drive/folders/1EpHMbJnse963kk356FfRAJSLmhOKuNT5?dmr=1&ec=wgc-drive-hero-goto",
 
