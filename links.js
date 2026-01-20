@@ -57,7 +57,7 @@ var links = {
      * Pitch | Assignment | Company Analysis | Preso (Section 1/2)
      */
 
-    "Elevator Pitch Due Date": "TBD",
+    "Elevator Pitch Due Date": "Jan 9, 12, 14",
     "Pitch folder Section 1": "https://drive.google.com/drive/folders/1BqILPtqEZ30zV5F8ipvzjfTg_BWfsBvI?dmr=1&ec=wgc-drive-hero-goto",
     "Pitch folder Section 2": "https://drive.google.com/drive/folders/1mOAIy1-NKxoyTWwqmflwKqI3cR9Gjz_a?dmr=1&ec=wgc-drive-hero-goto",
 
@@ -69,7 +69,7 @@ var links = {
     "Company Preso Folder Section 1": "https://drive.google.com/drive/folders/1jUGEp04bED9pnNBJ4w1nN4jb3XzSR76Z?dmr=1&ec=wgc-drive-hero-goto",
     "Company Preso Folder Section 2": "https://drive.google.com/drive/folders/14kHt1LHeHCMHqTsc0yzc2luhXO8TQPgz?dmr=1&ec=wgc-drive-hero-goto",
 
-    "Preso 1 Due Date": "TBD",
+    "Preso 1 Due Date": "Jan 21",
     "Preso 1 Folder Section 1": "https://drive.google.com/drive/folders/1i0YAfDlnMxeM4sjQXhkGLlYlRBHoDn9l?dmr=1&ec=wgc-drive-hero-goto",
     "Preso 1 Folder Section 2": "https://drive.google.com/drive/folders/1Lz-fXZ-SQSnAY0sMTsUCY-HkOkn-wJn2?dmr=1&ec=wgc-drive-hero-goto",
 
