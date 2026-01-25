@@ -73,7 +73,7 @@ var links = {
     "Preso 1 Folder Section 1": "https://drive.google.com/drive/folders/1i0YAfDlnMxeM4sjQXhkGLlYlRBHoDn9l?dmr=1&ec=wgc-drive-hero-goto",
     "Preso 1 Folder Section 2": "https://drive.google.com/drive/folders/1Lz-fXZ-SQSnAY0sMTsUCY-HkOkn-wJn2?dmr=1&ec=wgc-drive-hero-goto",
 
-    "Preso 2 Due Date": "Feb 6",
+    "Preso 2 Due Date": "Feb 2",
     "Preso 2 Folder Section 1": "https://drive.google.com/drive/folders/1m4DT2ciT2h5V5bBi-6utjkYCP-2_hrAj?dmr=1&ec=wgc-drive-hero-goto",
     "Preso 2 Folder Section 2": "https://drive.google.com/drive/folders/1lYh7s27Qe8ryMm68jC6gTtuen5aNdjGe?dmr=1&ec=wgc-drive-hero-goto",
 
