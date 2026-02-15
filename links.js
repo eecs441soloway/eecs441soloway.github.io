@@ -77,15 +77,15 @@ var links = {
     "Preso 2 Folder Section 1": "https://drive.google.com/drive/folders/1m4DT2ciT2h5V5bBi-6utjkYCP-2_hrAj?dmr=1&ec=wgc-drive-hero-goto",
     "Preso 2 Folder Section 2": "https://drive.google.com/drive/folders/1lYh7s27Qe8ryMm68jC6gTtuen5aNdjGe?dmr=1&ec=wgc-drive-hero-goto",
 
-    "Preso 3 Due Date": "Mar. 11",
+    "Preso 3 Due Date": "Mar 11",
     "Preso 3 Folder Section 1": "https://drive.google.com/drive/folders/1hz6ggZ3ITd88aI7ydy8HsPyXqN0RL3sJ?dmr=1&ec=wgc-drive-hero-goto",
     "Preso 3 Folder Section 2": "https://drive.google.com/drive/folders/1uEql5Z-SN1u9q37lIzsSfWCJTxQJaKUI?dmr=1&ec=wgc-drive-hero-goto",
 
-    "Preso 4 Due Date": "Mar. 18",
+    "Preso 4 Due Date": "Mar 18",
     "Preso 4 Folder Section 1": "https://drive.google.com/drive/folders/1ZF43m4XWC5vQKIdAfmXKaESlYw0oWqtr?dmr=1&ec=wgc-drive-hero-goto",
     "Preso 4 Folder Section 2": "https://drive.google.com/drive/folders/18SrxMP3AxAcVkkDYblQ6S9zd4ZicNbGK?dmr=1&ec=wgc-drive-hero-goto",
 
-    "Preso 5 Due Date": "Apr. 20",
+    "Preso 5 Due Date": "Apr 20",
     "Preso 5 Folder Section 1": "https://drive.google.com/drive/folders/1cHJuGN2wuzRy27HyrtfIbDJSoIoxHKgX?dmr=1&ec=wgc-drive-hero-goto",
     "Preso 5 Folder Section 2": "https://drive.google.com/drive/folders/1J21ugVrMZLfmIqq851DVOusmzhZDEprs?dmr=1&ec=wgc-drive-hero-goto",
 
