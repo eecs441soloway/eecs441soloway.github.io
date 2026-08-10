@@ -177,11 +177,11 @@ function loadSection2() {
     loadLinks();
 
     var documentItem = document.getElementById("page-title");
-    documentItem.innerText = "EECS 498 Section 11";
+    documentItem.innerText = "EECS 498 Section 005";
 
     documentItem = document.getElementById("section-title");
     if (documentItem) {
-        documentItem.innerText = "EECS 498 Section 11";
+        documentItem.innerText = "EECS 498 Section 005";
         documentItem.href = "441.html";
     }
 
