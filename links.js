@@ -3,9 +3,9 @@ var links = {
     "498 Syllabus": "https://drive.google.com/drive/folders/1zbBFSvGyla79kacZPn3d9jvWstZUXrn5?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto",
     
     /**
-     * EECS 441 Master Folder >
-     * EECS 441 GSI ONLY >
-     * EECS 441 - CURRENT TERM >
+     * CSE 441 Master Folder >
+     * CSE 441 GSI ONLY >
+     * CSE 441 - CURRENT TERM >
      * Request Absence Form
      */
     "441 Absence Form": "https://docs.google.com/forms/d/e/1FAIpQLSfu3Z-O02dk7ZTdVkiAucVXHeetKCEc59ZOa8d6q4ju8CMBrw/viewform?usp=publish-editor",
@@ -28,9 +28,9 @@ var links = {
     "Participation Sheet Section 2": "https://docs.google.com/spreadsheets/d/1DjQ2cNU4F6ZNexbo7XLH8Rxh51pqVvVY/edit?gid=302893071#gid=302893071",
 
     /**
-     * EECS 441 Master Folder >
-     * EECS 441 GSI ONLY >
-     * EECS 441 - CURRENT TERM >
+     * CSE 441 Master Folder >
+     * CSE 441 GSI ONLY >
+     * CSE 441 - CURRENT TERM >
      * Section NUM >
      * Grades >
      * 441 CURRENT TERM Student View Grades - Section 1/2
@@ -50,9 +50,9 @@ var links = {
 
 
     /**   
-     * EECS 441 Master Folder > 
-     * EECS 441 Student Work > 
-     * EECS 441 - CURRENT TERM > 
+     * CSE 441 Master Folder > 
+     * CSE 441 Student Work > 
+     * CSE 441 - CURRENT TERM > 
      * Section 1/2 > 
      * Pitch | Assignment | Company Analysis | Preso (Section 1/2)
      */
@@ -89,9 +89,9 @@ var links = {
     "Preso 5 Folder Section 1": "https://drive.google.com/drive/folders/1R4valTig0kdEcz64JAz-Bo4LUQmylHEK?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto",
     "Preso 5 Folder Section 2": "https://drive.google.com/drive/folders/1tnefb2NG0-HBFfLx57aEPrq3bAI8RPbu?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto",
 
-    /**   EECS 441 Master Folder > 
-     * EECS 441 GSI ONLY > 
-     * EECS 441 - CURRENT TERM > 
+    /**   CSE 441 Master Folder > 
+     * CSE 441 GSI ONLY > 
+     * CSE 441 - CURRENT TERM > 
      * Section 1/2 > 
      * Project Groups Form - Section 1/2 
      */
@@ -108,10 +108,10 @@ function loadSection1() {
     loadLinks();
 
     var documentItem = document.getElementById("page-title");
-    documentItem.innerText = "EECS 441 Section 1";
+    documentItem.innerText = "CSE 441 Section 1";
     documentItem = document.getElementById("section-title");
     if (documentItem) {
-        documentItem.innerText = "EECS 441 Section 1";
+        documentItem.innerText = "CSE 441 Section 1";
         documentItem.href = "498.html";
     }
 
@@ -177,11 +177,11 @@ function loadSection2() {
     loadLinks();
 
     var documentItem = document.getElementById("page-title");
-    documentItem.innerText = "EECS 498 Section 005";
+    documentItem.innerText = "CSE 498 Section 005";
 
     documentItem = document.getElementById("section-title");
     if (documentItem) {
-        documentItem.innerText = "EECS 498 Section 005";
+        documentItem.innerText = "CSE 498 Section 005";
         documentItem.href = "441.html";
     }
 
