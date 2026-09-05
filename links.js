@@ -21,8 +21,10 @@ var links = {
     //"Guest Speaker folder": "https://drive.google.com/drive/folders/1p8QeNGxqwLIyaMVZ2c2R-rL3zM1dB-VJ?usp=share_link",
     "441 Guest Speaker folder": "https://drive.google.com/drive/folders/1kV_UbGlt6S6cGGuwzvMCP-q6IN52qJbT?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto",
     "498 Guest Speaker folder": "https://drive.google.com/drive/folders/1nwFIyGHLQrpioGAOS5PXitf7K8TwlXLS?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto",
-    "Section 1 Recordings" : "",
-    "Section 2 Recordings" : "",
+    "Section 1 Recordings" : "https://tinyurl.com/441fall2026VideoMonWed",
+    "Section 1 Friday Recordings" : "https://tinyurl.com/441fall2026VideoFriday",
+    "Section 2 Recordings" : "https://tinyurl.com/498fallVideoMonWed",
+    "Section 2 Friday Recordings" : "https://tinyurl.com/498fallVideoFriday",
 
     "Participation Sheet Section 1": "https://docs.google.com/spreadsheets/d/13QRn7stLVMXL9bmaCCc7mnHHN4vsyYvU/edit?gid=302893071#gid=302893071",
     "Participation Sheet Section 2": "https://docs.google.com/spreadsheets/d/1DjQ2cNU4F6ZNexbo7XLH8Rxh51pqVvVY/edit?gid=302893071#gid=302893071",
@@ -127,8 +129,11 @@ function loadSection1() {
     documentItem = document.getElementById("grades");
     documentItem.href = links["Grades Sheet Section 1"];
 
-    documentItem = document.getElementById("recordings");
+    documentItem = document.getElementById("recordings-monwed");
     documentItem.href = links["Section 1 Recordings"];
+
+    documentItem = document.getElementById("recordings-fri");
+    documentItem.href = links["Section 1 Friday Recordings"];
 
     documentItem = document.getElementById("project-eval");
     documentItem.href = links["Project Preso Evaluation Section 1"];
@@ -188,7 +193,6 @@ function loadSection2() {
     documentItem = document.getElementById("syllabus");
     documentItem.href = links["498 Syllabus"];
 
-
     documentItem = document.getElementById("absence-form");
     documentItem.href = links["498 Absence Form"];
 
@@ -198,8 +202,11 @@ function loadSection2() {
     documentItem = document.getElementById("grades");
     documentItem.href = links["Grades Sheet Section 2"];
 
-    documentItem = document.getElementById("recordings");
+    documentItem = document.getElementById("recordings-monwed");
     documentItem.href = links["Section 2 Recordings"];
+
+    documentItem = document.getElementById("recordings-fri");
+    documentItem.href = links["Section 2 Friday Recordings"];
 
     documentItem = document.getElementById("project-eval");
     documentItem.href = links["Project Preso Evaluation Section 2"];
@@ -301,4 +308,14 @@ function toggleAbout() {
     console.log(documentItem.style.display);
     if (documentItem.style.display == "none") documentItem.style.display = "block";
     else documentItem.style.display = "none";
+}
+
+
+function showRecordings() {
+    $('#recordings-modal').modal({
+        transition: 'fade up',
+        duration: 150,
+        closable: true,
+        autofocus: false
+    }).modal('show');
 }
