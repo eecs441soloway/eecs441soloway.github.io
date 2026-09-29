@@ -75,23 +75,23 @@ var links = {
     "Preso 1 Folder Section 1": "https://drive.google.com/drive/folders/1fBi5jv25En5H9e22q4aZfROmbWQMSKop?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto",
     "Preso 1 Folder Section 2": "https://drive.google.com/drive/folders/1klo0aO1gABMlH1Zz1NhE6NNqF8mdJxa7?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto",
 
-    "Preso 2 Due Date": "Sep 28",
+    "Preso 2 Due Date": "Sep 30",
     "Preso 2 Folder Section 1": "https://drive.google.com/drive/folders/1xTdTOv9nAiILnt8ae6hUL73b2R7djvNZ?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto",
     "Preso 2 Folder Section 2": "https://drive.google.com/drive/folders/1Jsn1GZ7GMIxkKg2kFmrF-i0Ba_CgaUz5?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto",
 
-    "Preso 3 Due Date": "TBD",
+    "Preso 3 Due Date": "Oct 21",
     "Preso 3 Folder Section 1": "https://drive.google.com/drive/folders/1lFK_ctS5ZMV6ke0mIkORmLYwohe7kPfg?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto",
     "Preso 3 Folder Section 2": "https://drive.google.com/drive/folders/1VMd-5B2DMYMBNTWLuqTr9o067kskngfe?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto",
 
-    "Preso 4 Due Date": "TBD",
+    "Preso 4 Due Date": "Oct 28",
     "Preso 4 Folder Section 1": "https://drive.google.com/drive/folders/1Sil41KIe_ogxWuuNmKGXlJJmX8H7PdXQ?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto",
     "Preso 4 Folder Section 2": "https://drive.google.com/drive/folders/1uwervTfJ2vC2GdW4ftEJsciSfP1805IU?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto",
 
-    "Preso 5 Due Date": "TBD",
+    "Preso 5 Due Date": "Nov 18",
     "Preso 5 Folder Section 1": "https://drive.google.com/drive/folders/1R4valTig0kdEcz64JAz-Bo4LUQmylHEK?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto",
     "Preso 5 Folder Section 2": "https://drive.google.com/drive/folders/1tnefb2NG0-HBFfLx57aEPrq3bAI8RPbu?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto",
 
-    "Preso 6 Due Date": "TBD",
+    "Preso 6 Due Date": "Dec 11",
     "Preso 6 Folder Section 1": "https://drive.google.com/drive/folders/1gtibmQ0ZYF9UfsZ_zr7xMsLfBlcsIYLK?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto",
     "Preso 6 Folder Section 2": "https://drive.google.com/drive/folders/1iGwwTsut2umr_Z1be-HBIji9zAMSCyxH?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto",
 
