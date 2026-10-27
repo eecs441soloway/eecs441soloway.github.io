@@ -87,13 +87,17 @@ var links = {
     "Preso 4 Folder Section 1": "https://drive.google.com/drive/folders/1Sil41KIe_ogxWuuNmKGXlJJmX8H7PdXQ?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto",
     "Preso 4 Folder Section 2": "https://drive.google.com/drive/folders/1uwervTfJ2vC2GdW4ftEJsciSfP1805IU?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto",
 
-    "Preso 5 Due Date": "Nov 18",
+    "Preso 5 Due Date": "Nov 11",
     "Preso 5 Folder Section 1": "https://drive.google.com/drive/folders/1R4valTig0kdEcz64JAz-Bo4LUQmylHEK?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto",
     "Preso 5 Folder Section 2": "https://drive.google.com/drive/folders/1tnefb2NG0-HBFfLx57aEPrq3bAI8RPbu?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto",
 
-    "Preso 6 Due Date": "Dec 11",
+    "Preso 6 Due Date": "Nov 18",
     "Preso 6 Folder Section 1": "https://drive.google.com/drive/folders/1gtibmQ0ZYF9UfsZ_zr7xMsLfBlcsIYLK?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto",
     "Preso 6 Folder Section 2": "https://drive.google.com/drive/folders/1iGwwTsut2umr_Z1be-HBIji9zAMSCyxH?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto",
+
+    "Preso 7 Due Date": "Dec 11",
+    "Preso 7 Folder Section 1": "https://drive.google.com/drive/folders/1GIXwT32V3Abg1q64xSpuMg1bU4dWU_l3?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto",
+    "Preso 7 Folder Section 2": "https://drive.google.com/drive/folders/1GIUYTSpP4EIbk1-p6vqbT8T7W8hPvc5r?dmr=1&ec=wgc-drive-%5Bmodule%5D-goto",
 
     /**   CSE 441 Master Folder > 
      * CSE 441 GSI ONLY > 
@@ -168,6 +172,9 @@ function loadSection1() {
 
     documentItem = document.getElementById("preso-6-folder");
     documentItem.href = links["Preso 6 Folder Section 1"];
+    
+    documentItem = document.getElementById("preso-7-folder");
+    documentItem.href = links["Preso 7 Folder Section 1"];
 
     documentItem = document.getElementById("company-preso-folder");
     documentItem.href = links["Company Preso Folder Section 1"];
@@ -244,6 +251,9 @@ function loadSection2() {
 
     documentItem = document.getElementById("preso-6-folder");
     documentItem.href = links["Preso 6 Folder Section 2"];
+    
+    documentItem = document.getElementById("preso-7-folder");
+    documentItem.href = links["Preso 7 Folder Section 2"];
 
     documentItem = document.getElementById("company-preso-folder");
     documentItem.href = links["Company Preso Folder Section 2"];
@@ -310,6 +320,10 @@ function loadLinks() {
     // Preso 6
     documentItem = document.getElementById("preso-6-due");
     documentItem.textContent = links["Preso 6 Due Date"];
+    
+    // Preso 7
+    documentItem = document.getElementById("preso-7-due");
+    documentItem.textContent = links["Preso 7 Due Date"];
 
     // Project groups
     documentItem = document.getElementById("project-groups-due");
